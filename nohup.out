@@ -1,0 +1,1804 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Training started
+>>>Epoch[0] trining batch:0/391 {'loss': 2.471508026123047}
+>>>Epoch[0] trining batch:50/391 {'loss': 2.5283048152923584}
+>>>Epoch[0] trining batch:100/391 {'loss': 2.0143537521362305}
+>>>Epoch[0] trining batch:150/391 {'loss': 1.973931908607483}
+>>>Epoch[0] trining batch:200/391 {'loss': 1.825932502746582}
+>>>Epoch[0] trining batch:250/391 {'loss': 1.759018898010254}
+>>>Epoch[0] trining batch:300/391 {'loss': 1.7908055782318115}
+>>>Epoch[0] trining batch:350/391 {'loss': 1.7815873622894287}
+Epoch[0/199] ETA:167.89min(0.84min/epoch) {'training_acc': 0.2718000113964081, 'epoch': None, 'step': None}
+>>>Epoch[1] trining batch:0/391 {'loss': 1.7317618131637573}
+>>>Epoch[1] trining batch:50/391 {'loss': 1.500133991241455}
+>>>Epoch[1] trining batch:100/391 {'loss': 1.571435570716858}
+>>>Epoch[1] trining batch:150/391 {'loss': 1.6157646179199219}
+>>>Epoch[1] trining batch:200/391 {'loss': 1.507017731666565}
+>>>Epoch[1] trining batch:250/391 {'loss': 1.5587798357009888}
+>>>Epoch[1] trining batch:300/391 {'loss': 1.4624152183532715}
+>>>Epoch[1] trining batch:350/391 {'loss': 1.543379783630371}
+Epoch[1/199] ETA:145.86min(0.74min/epoch) {'training_acc': 0.4249400198459625, 'epoch': None, 'step': None}
+>>>Epoch[2] trining batch:0/391 {'loss': 1.5341076850891113}
+>>>Epoch[2] trining batch:50/391 {'loss': 1.3910737037658691}
+>>>Epoch[2] trining batch:100/391 {'loss': 1.0808415412902832}
+>>>Epoch[2] trining batch:150/391 {'loss': 1.191747784614563}
+>>>Epoch[2] trining batch:200/391 {'loss': 1.2582961320877075}
+>>>Epoch[2] trining batch:250/391 {'loss': 1.2189476490020752}
+>>>Epoch[2] trining batch:300/391 {'loss': 1.3155009746551514}
+>>>Epoch[2] trining batch:350/391 {'loss': 1.1940852403640747}
+Epoch[2/199] ETA:143.01min(0.73min/epoch) {'training_acc': 0.522379994392395, 'epoch': None, 'step': None}
+>>>Epoch[3] trining batch:0/391 {'loss': 1.2277708053588867}
+>>>Epoch[3] trining batch:50/391 {'loss': 1.1688811779022217}
+>>>Epoch[3] trining batch:100/391 {'loss': 1.1587802171707153}
+>>>Epoch[3] trining batch:150/391 {'loss': 1.0701433420181274}
+>>>Epoch[3] trining batch:200/391 {'loss': 0.9974985122680664}
+>>>Epoch[3] trining batch:250/391 {'loss': 1.1424148082733154}
+>>>Epoch[3] trining batch:300/391 {'loss': 1.038858413696289}
+>>>Epoch[3] trining batch:350/391 {'loss': 1.077091097831726}
+Epoch[3/199] ETA:143.11min(0.73min/epoch) {'training_acc': 0.6064600348472595, 'epoch': None, 'step': None}
+>>>Epoch[4] trining batch:0/391 {'loss': 0.8910751342773438}
+>>>Epoch[4] trining batch:50/391 {'loss': 0.9876319169998169}
+>>>Epoch[4] trining batch:100/391 {'loss': 0.8454794883728027}
+>>>Epoch[4] trining batch:150/391 {'loss': 0.8092074394226074}
+>>>Epoch[4] trining batch:200/391 {'loss': 0.9442785382270813}
+>>>Epoch[4] trining batch:250/391 {'loss': 0.8054819703102112}
+>>>Epoch[4] trining batch:300/391 {'loss': 1.0038379430770874}
+>>>Epoch[4] trining batch:350/391 {'loss': 0.8397229909896851}
+Epoch[4/199] ETA:143.81min(0.74min/epoch) {'training_acc': 0.6652599573135376, 'epoch': None, 'step': None}
+>>>Epoch[5] trining batch:0/391 {'loss': 0.8386698365211487}
+>>>Epoch[5] trining batch:50/391 {'loss': 1.0235897302627563}
+>>>Epoch[5] trining batch:100/391 {'loss': 0.8795753717422485}
+>>>Epoch[5] trining batch:150/391 {'loss': 0.7988070249557495}
+>>>Epoch[5] trining batch:200/391 {'loss': 0.7097843885421753}
+>>>Epoch[5] trining batch:250/391 {'loss': 0.6770614385604858}
+>>>Epoch[5] trining batch:300/391 {'loss': 0.8444364666938782}
+>>>Epoch[5] trining batch:350/391 {'loss': 0.933290958404541}
+Epoch[5/199] ETA:139.36min(0.72min/epoch) {'training_acc': 0.7185200452804565, 'epoch': None, 'step': None}
+>>>Epoch[6] trining batch:0/391 {'loss': 0.8057922124862671}
+>>>Epoch[6] trining batch:50/391 {'loss': 0.7546972632408142}
+>>>Epoch[6] trining batch:100/391 {'loss': 0.7570470571517944}
+>>>Epoch[6] trining batch:150/391 {'loss': 0.7304995656013489}
+>>>Epoch[6] trining batch:200/391 {'loss': 0.6750520467758179}
+>>>Epoch[6] trining batch:250/391 {'loss': 0.6244467496871948}
+>>>Epoch[6] trining batch:300/391 {'loss': 0.6428322792053223}
+>>>Epoch[6] trining batch:350/391 {'loss': 0.5947957038879395}
+Epoch[6/199] ETA:140.93min(0.73min/epoch) {'training_acc': 0.7624199986457825, 'epoch': None, 'step': None}
+>>>Epoch[7] trining batch:0/391 {'loss': 0.5927578210830688}
+>>>Epoch[7] trining batch:50/391 {'loss': 0.45111340284347534}
+>>>Epoch[7] trining batch:100/391 {'loss': 0.5395398139953613}
+>>>Epoch[7] trining batch:150/391 {'loss': 0.6585299968719482}
+>>>Epoch[7] trining batch:200/391 {'loss': 0.7231554985046387}
+>>>Epoch[7] trining batch:250/391 {'loss': 0.4805329740047455}
+>>>Epoch[7] trining batch:300/391 {'loss': 0.6698735356330872}
+>>>Epoch[7] trining batch:350/391 {'loss': 0.3973694443702698}
+Epoch[7/199] ETA:140.27min(0.73min/epoch) {'training_acc': 0.794439971446991, 'epoch': None, 'step': None}
+>>>Epoch[8] trining batch:0/391 {'loss': 0.49264785647392273}
+>>>Epoch[8] trining batch:50/391 {'loss': 0.43681615591049194}
+>>>Epoch[8] trining batch:100/391 {'loss': 0.43420135974884033}
+>>>Epoch[8] trining batch:150/391 {'loss': 0.6175162196159363}
+>>>Epoch[8] trining batch:200/391 {'loss': 0.49321308732032776}
+>>>Epoch[8] trining batch:250/391 {'loss': 0.4431077539920807}
+>>>Epoch[8] trining batch:300/391 {'loss': 0.6778208613395691}
+>>>Epoch[8] trining batch:350/391 {'loss': 0.5709714889526367}
+Epoch[8/199] ETA:138.96min(0.73min/epoch) {'training_acc': 0.8132200241088867, 'epoch': None, 'step': None}
+>>>Epoch[9] trining batch:0/391 {'loss': 0.5086051225662231}
+>>>Epoch[9] trining batch:50/391 {'loss': 0.5794763565063477}
+>>>Epoch[9] trining batch:100/391 {'loss': 0.4199751615524292}
+>>>Epoch[9] trining batch:150/391 {'loss': 0.6412663459777832}
+>>>Epoch[9] trining batch:200/391 {'loss': 0.3611402213573456}
+>>>Epoch[9] trining batch:250/391 {'loss': 0.33489832282066345}
+>>>Epoch[9] trining batch:300/391 {'loss': 0.4763452410697937}
+>>>Epoch[9] trining batch:350/391 {'loss': 0.47465816140174866}
+Epoch[9/199] ETA:138.14min(0.73min/epoch) {'training_acc': 0.8303400278091431, 'epoch': None, 'step': None}
+>>>Epoch[10] trining batch:0/391 {'loss': 0.556929349899292}
+>>>Epoch[10] trining batch:50/391 {'loss': 0.37740808725357056}
+>>>Epoch[10] trining batch:100/391 {'loss': 0.5003437995910645}
+>>>Epoch[10] trining batch:150/391 {'loss': 0.43003976345062256}
+>>>Epoch[10] trining batch:200/391 {'loss': 0.37351277470588684}
+>>>Epoch[10] trining batch:250/391 {'loss': 0.4897499680519104}
+>>>Epoch[10] trining batch:300/391 {'loss': 0.35080400109291077}
+>>>Epoch[10] trining batch:350/391 {'loss': 0.391613632440567}
+Epoch[10/199] ETA:138.96min(0.74min/epoch) {'training_acc': 0.8425399661064148, 'epoch': None, 'step': None}
+>>>Epoch[11] trining batch:0/391 {'loss': 0.4766019582748413}
+>>>Epoch[11] trining batch:50/391 {'loss': 0.3270484507083893}
+>>>Epoch[11] trining batch:100/391 {'loss': 0.4781478941440582}
+>>>Epoch[11] trining batch:150/391 {'loss': 0.4315639138221741}
+>>>Epoch[11] trining batch:200/391 {'loss': 0.34023118019104004}
+>>>Epoch[11] trining batch:250/391 {'loss': 0.34006550908088684}
+>>>Epoch[11] trining batch:300/391 {'loss': 0.3661856949329376}
+>>>Epoch[11] trining batch:350/391 {'loss': 0.31333574652671814}
+Epoch[11/199] ETA:137.85min(0.73min/epoch) {'training_acc': 0.8543800115585327, 'epoch': None, 'step': None}
+>>>Epoch[12] trining batch:0/391 {'loss': 0.43754658102989197}
+>>>Epoch[12] trining batch:50/391 {'loss': 0.3782438039779663}
+>>>Epoch[12] trining batch:100/391 {'loss': 0.36528927087783813}
+>>>Epoch[12] trining batch:150/391 {'loss': 0.37183380126953125}
+>>>Epoch[12] trining batch:200/391 {'loss': 0.3211287260055542}
+>>>Epoch[12] trining batch:250/391 {'loss': 0.21778076887130737}
+>>>Epoch[12] trining batch:300/391 {'loss': 0.24773915112018585}
+>>>Epoch[12] trining batch:350/391 {'loss': 0.4227161109447479}
+Epoch[12/199] ETA:136.96min(0.73min/epoch) {'training_acc': 0.8662999868392944, 'epoch': None, 'step': None}
+>>>Epoch[13] trining batch:0/391 {'loss': 0.348341703414917}
+>>>Epoch[13] trining batch:50/391 {'loss': 0.39712709188461304}
+>>>Epoch[13] trining batch:100/391 {'loss': 0.38056865334510803}
+>>>Epoch[13] trining batch:150/391 {'loss': 0.40563490986824036}
+>>>Epoch[13] trining batch:200/391 {'loss': 0.3335185945034027}
+>>>Epoch[13] trining batch:250/391 {'loss': 0.46541935205459595}
+>>>Epoch[13] trining batch:300/391 {'loss': 0.38307350873947144}
+>>>Epoch[13] trining batch:350/391 {'loss': 0.40645310282707214}
+Epoch[13/199] ETA:135.74min(0.73min/epoch) {'training_acc': 0.8754399418830872, 'epoch': None, 'step': None}
+>>>Epoch[14] trining batch:0/391 {'loss': 0.2659599184989929}
+>>>Epoch[14] trining batch:50/391 {'loss': 0.5669384598731995}
+>>>Epoch[14] trining batch:100/391 {'loss': 0.2696510851383209}
+>>>Epoch[14] trining batch:150/391 {'loss': 0.29303547739982605}
+>>>Epoch[14] trining batch:200/391 {'loss': 0.21121947467327118}
+>>>Epoch[14] trining batch:250/391 {'loss': 0.24770906567573547}
+>>>Epoch[14] trining batch:300/391 {'loss': 0.333069384098053}
+>>>Epoch[14] trining batch:350/391 {'loss': 0.3579198718070984}
+Epoch[14/199] ETA:132.21min(0.71min/epoch) {'training_acc': 0.8842999339103699, 'epoch': None, 'step': None}
+>>>Epoch[15] trining batch:0/391 {'loss': 0.29668498039245605}
+>>>Epoch[15] trining batch:50/391 {'loss': 0.279638409614563}
+>>>Epoch[15] trining batch:100/391 {'loss': 0.2822129726409912}
+>>>Epoch[15] trining batch:150/391 {'loss': 0.28639155626296997}
+>>>Epoch[15] trining batch:200/391 {'loss': 0.3193284869194031}
+>>>Epoch[15] trining batch:250/391 {'loss': 0.29128825664520264}
+>>>Epoch[15] trining batch:300/391 {'loss': 0.4556739628314972}
+>>>Epoch[15] trining batch:350/391 {'loss': 0.3442722260951996}
+Epoch[15/199] ETA:132.58min(0.72min/epoch) {'training_acc': 0.8890599608421326, 'epoch': None, 'step': None}
+>>>Epoch[16] trining batch:0/391 {'loss': 0.2887062132358551}
+>>>Epoch[16] trining batch:50/391 {'loss': 0.27591565251350403}
+>>>Epoch[16] trining batch:100/391 {'loss': 0.2651453912258148}
+>>>Epoch[16] trining batch:150/391 {'loss': 0.3153369426727295}
+>>>Epoch[16] trining batch:200/391 {'loss': 0.33435511589050293}
+>>>Epoch[16] trining batch:250/391 {'loss': 0.1972237229347229}
+>>>Epoch[16] trining batch:300/391 {'loss': 0.20580695569515228}
+>>>Epoch[16] trining batch:350/391 {'loss': 0.26927077770233154}
+Epoch[16/199] ETA:134.11min(0.73min/epoch) {'training_acc': 0.8933000564575195, 'epoch': None, 'step': None}
+>>>Epoch[17] trining batch:0/391 {'loss': 0.4484782814979553}
+>>>Epoch[17] trining batch:50/391 {'loss': 0.1952727735042572}
+>>>Epoch[17] trining batch:100/391 {'loss': 0.3456345796585083}
+>>>Epoch[17] trining batch:150/391 {'loss': 0.2885361313819885}
+>>>Epoch[17] trining batch:200/391 {'loss': 0.37928885221481323}
+>>>Epoch[17] trining batch:250/391 {'loss': 0.2446478009223938}
+>>>Epoch[17] trining batch:300/391 {'loss': 0.3120739758014679}
+>>>Epoch[17] trining batch:350/391 {'loss': 0.2748771607875824}
+Epoch[17/199] ETA:131.50min(0.72min/epoch) {'training_acc': 0.8990399837493896, 'epoch': None, 'step': None}
+>>>Epoch[18] trining batch:0/391 {'loss': 0.2520638704299927}
+>>>Epoch[18] trining batch:50/391 {'loss': 0.30179867148399353}
+>>>Epoch[18] trining batch:100/391 {'loss': 0.17410652339458466}
+>>>Epoch[18] trining batch:150/391 {'loss': 0.27003946900367737}
+>>>Epoch[18] trining batch:200/391 {'loss': 0.32229599356651306}
+>>>Epoch[18] trining batch:250/391 {'loss': 0.3585318624973297}
+>>>Epoch[18] trining batch:300/391 {'loss': 0.38327890634536743}
+>>>Epoch[18] trining batch:350/391 {'loss': 0.1597883403301239}
+Epoch[18/199] ETA:131.03min(0.72min/epoch) {'training_acc': 0.9025999903678894, 'epoch': None, 'step': None}
+>>>Epoch[19] trining batch:0/391 {'loss': 0.3185372054576874}
+>>>Epoch[19] trining batch:50/391 {'loss': 0.230359748005867}
+>>>Epoch[19] trining batch:100/391 {'loss': 0.1587170958518982}
+>>>Epoch[19] trining batch:150/391 {'loss': 0.154524564743042}
+>>>Epoch[19] trining batch:200/391 {'loss': 0.2109815776348114}
+>>>Epoch[19] trining batch:250/391 {'loss': 0.21487104892730713}
+>>>Epoch[19] trining batch:300/391 {'loss': 0.3429161608219147}
+>>>Epoch[19] trining batch:350/391 {'loss': 0.2730870544910431}
+Epoch[19/199] ETA:130.35min(0.72min/epoch) {'training_acc': 0.90857994556427, 'epoch': None, 'step': None}
+>>>Epoch[20] trining batch:0/391 {'loss': 0.22580422461032867}
+>>>Epoch[20] trining batch:50/391 {'loss': 0.20944349467754364}
+>>>Epoch[20] trining batch:100/391 {'loss': 0.26088517904281616}
+>>>Epoch[20] trining batch:150/391 {'loss': 0.3345983922481537}
+>>>Epoch[20] trining batch:200/391 {'loss': 0.27213984727859497}
+>>>Epoch[20] trining batch:250/391 {'loss': 0.22480711340904236}
+>>>Epoch[20] trining batch:300/391 {'loss': 0.3365950882434845}
+>>>Epoch[20] trining batch:350/391 {'loss': 0.21077698469161987}
+Epoch[20/199] ETA:131.08min(0.73min/epoch) {'training_acc': 0.9115399718284607, 'epoch': None, 'step': None}
+>>>Epoch[21] trining batch:0/391 {'loss': 0.2104126363992691}
+>>>Epoch[21] trining batch:50/391 {'loss': 0.273164838552475}
+>>>Epoch[21] trining batch:100/391 {'loss': 0.3069101870059967}
+>>>Epoch[21] trining batch:150/391 {'loss': 0.27057206630706787}
+>>>Epoch[21] trining batch:200/391 {'loss': 0.3461633622646332}
+>>>Epoch[21] trining batch:250/391 {'loss': 0.160868838429451}
+>>>Epoch[21] trining batch:300/391 {'loss': 0.23412638902664185}
+>>>Epoch[21] trining batch:350/391 {'loss': 0.20839950442314148}
+Epoch[21/199] ETA:128.61min(0.72min/epoch) {'training_acc': 0.9165999889373779, 'epoch': None, 'step': None}
+>>>Epoch[22] trining batch:0/391 {'loss': 0.26709216833114624}
+>>>Epoch[22] trining batch:50/391 {'loss': 0.25570186972618103}
+>>>Epoch[22] trining batch:100/391 {'loss': 0.19127900898456573}
+>>>Epoch[22] trining batch:150/391 {'loss': 0.1878177374601364}
+>>>Epoch[22] trining batch:200/391 {'loss': 0.20576126873493195}
+>>>Epoch[22] trining batch:250/391 {'loss': 0.1974528282880783}
+>>>Epoch[22] trining batch:300/391 {'loss': 0.17357322573661804}
+>>>Epoch[22] trining batch:350/391 {'loss': 0.26755598187446594}
+Epoch[22/199] ETA:127.29min(0.72min/epoch) {'training_acc': 0.919700026512146, 'epoch': None, 'step': None}
+>>>Epoch[23] trining batch:0/391 {'loss': 0.22955326735973358}
+>>>Epoch[23] trining batch:50/391 {'loss': 0.23681294918060303}
+>>>Epoch[23] trining batch:100/391 {'loss': 0.3330187499523163}
+>>>Epoch[23] trining batch:150/391 {'loss': 0.12906688451766968}
+>>>Epoch[23] trining batch:200/391 {'loss': 0.25308188796043396}
+>>>Epoch[23] trining batch:250/391 {'loss': 0.24204717576503754}
+>>>Epoch[23] trining batch:300/391 {'loss': 0.1594945788383484}
+>>>Epoch[23] trining batch:350/391 {'loss': 0.1741967499256134}
+Epoch[23/199] ETA:129.53min(0.74min/epoch) {'training_acc': 0.9208400249481201, 'epoch': None, 'step': None}
+>>>Epoch[24] trining batch:0/391 {'loss': 0.1297309398651123}
+>>>Epoch[24] trining batch:50/391 {'loss': 0.3803357183933258}
+>>>Epoch[24] trining batch:100/391 {'loss': 0.20581935346126556}
+>>>Epoch[24] trining batch:150/391 {'loss': 0.22750318050384521}
+>>>Epoch[24] trining batch:200/391 {'loss': 0.3785758316516876}
+>>>Epoch[24] trining batch:250/391 {'loss': 0.2620575726032257}
+>>>Epoch[24] trining batch:300/391 {'loss': 0.2501404285430908}
+>>>Epoch[24] trining batch:350/391 {'loss': 0.19273686408996582}
+Epoch[24/199] ETA:129.34min(0.74min/epoch) {'training_acc': 0.9243800640106201, 'epoch': None, 'step': None}
+>>>Epoch[25] trining batch:0/391 {'loss': 0.1608162522315979}
+>>>Epoch[25] trining batch:50/391 {'loss': 0.15670447051525116}
+>>>Epoch[25] trining batch:100/391 {'loss': 0.21644234657287598}
+>>>Epoch[25] trining batch:150/391 {'loss': 0.11242608726024628}
+>>>Epoch[25] trining batch:200/391 {'loss': 0.16098101437091827}
+>>>Epoch[25] trining batch:250/391 {'loss': 0.177133247256279}
+>>>Epoch[25] trining batch:300/391 {'loss': 0.19809813797473907}
+>>>Epoch[25] trining batch:350/391 {'loss': 0.19757625460624695}
+Epoch[25/199] ETA:127.45min(0.73min/epoch) {'training_acc': 0.9292399883270264, 'epoch': None, 'step': None}
+>>>Epoch[26] trining batch:0/391 {'loss': 0.19402219355106354}
+>>>Epoch[26] trining batch:50/391 {'loss': 0.18075838685035706}
+>>>Epoch[26] trining batch:100/391 {'loss': 0.13951388001441956}
+>>>Epoch[26] trining batch:150/391 {'loss': 0.23761332035064697}
+>>>Epoch[26] trining batch:200/391 {'loss': 0.2754872739315033}
+>>>Epoch[26] trining batch:250/391 {'loss': 0.22570869326591492}
+>>>Epoch[26] trining batch:300/391 {'loss': 0.1511395424604416}
+>>>Epoch[26] trining batch:350/391 {'loss': 0.14343683421611786}
+Epoch[26/199] ETA:127.52min(0.74min/epoch) {'training_acc': 0.9310200214385986, 'epoch': None, 'step': None}
+>>>Epoch[27] trining batch:0/391 {'loss': 0.15954850614070892}
+>>>Epoch[27] trining batch:50/391 {'loss': 0.21645085513591766}
+>>>Epoch[27] trining batch:100/391 {'loss': 0.19011421501636505}
+>>>Epoch[27] trining batch:150/391 {'loss': 0.15850099921226501}
+>>>Epoch[27] trining batch:200/391 {'loss': 0.21459001302719116}
+>>>Epoch[27] trining batch:250/391 {'loss': 0.16562992334365845}
+>>>Epoch[27] trining batch:300/391 {'loss': 0.19418849050998688}
+>>>Epoch[27] trining batch:350/391 {'loss': 0.3059537410736084}
+Epoch[27/199] ETA:124.45min(0.72min/epoch) {'training_acc': 0.9334999918937683, 'epoch': None, 'step': None}
+>>>Epoch[28] trining batch:0/391 {'loss': 0.21891216933727264}
+>>>Epoch[28] trining batch:50/391 {'loss': 0.15734075009822845}
+>>>Epoch[28] trining batch:100/391 {'loss': 0.19316883385181427}
+>>>Epoch[28] trining batch:150/391 {'loss': 0.21987077593803406}
+>>>Epoch[28] trining batch:200/391 {'loss': 0.1358785182237625}
+>>>Epoch[28] trining batch:250/391 {'loss': 0.1655123084783554}
+>>>Epoch[28] trining batch:300/391 {'loss': 0.16521845757961273}
+>>>Epoch[28] trining batch:350/391 {'loss': 0.196517676115036}
+Epoch[28/199] ETA:124.50min(0.73min/epoch) {'training_acc': 0.9344000220298767, 'epoch': None, 'step': None}
+>>>Epoch[29] trining batch:0/391 {'loss': 0.1319998949766159}
+>>>Epoch[29] trining batch:50/391 {'loss': 0.1744811087846756}
+>>>Epoch[29] trining batch:100/391 {'loss': 0.18485033512115479}
+>>>Epoch[29] trining batch:150/391 {'loss': 0.18881931900978088}
+>>>Epoch[29] trining batch:200/391 {'loss': 0.12036330252885818}
+>>>Epoch[29] trining batch:250/391 {'loss': 0.11999059468507767}
+>>>Epoch[29] trining batch:300/391 {'loss': 0.24038949608802795}
+>>>Epoch[29] trining batch:350/391 {'loss': 0.22792471945285797}
+Epoch[29/199] ETA:122.55min(0.72min/epoch) {'training_acc': 0.9380399584770203, 'epoch': None, 'step': None}
+>>>Epoch[30] trining batch:0/391 {'loss': 0.10157269984483719}
+>>>Epoch[30] trining batch:50/391 {'loss': 0.1914903223514557}
+>>>Epoch[30] trining batch:100/391 {'loss': 0.2304898053407669}
+>>>Epoch[30] trining batch:150/391 {'loss': 0.19064822793006897}
+>>>Epoch[30] trining batch:200/391 {'loss': 0.16115568578243256}
+>>>Epoch[30] trining batch:250/391 {'loss': 0.23615863919258118}
+>>>Epoch[30] trining batch:300/391 {'loss': 0.12053563445806503}
+>>>Epoch[30] trining batch:350/391 {'loss': 0.2072371244430542}
+Epoch[30/199] ETA:120.10min(0.71min/epoch) {'training_acc': 0.9392600059509277, 'epoch': None, 'step': None}
+>>>Epoch[31] trining batch:0/391 {'loss': 0.20595531165599823}
+>>>Epoch[31] trining batch:50/391 {'loss': 0.15307720005512238}
+>>>Epoch[31] trining batch:100/391 {'loss': 0.23482881486415863}
+>>>Epoch[31] trining batch:150/391 {'loss': 0.21733644604682922}
+>>>Epoch[31] trining batch:200/391 {'loss': 0.17306552827358246}
+>>>Epoch[31] trining batch:250/391 {'loss': 0.2093038111925125}
+>>>Epoch[31] trining batch:300/391 {'loss': 0.2018819898366928}
+>>>Epoch[31] trining batch:350/391 {'loss': 0.13916712999343872}
+Epoch[31/199] ETA:119.71min(0.71min/epoch) {'training_acc': 0.9412599802017212, 'epoch': None, 'step': None}
+>>>Epoch[32] trining batch:0/391 {'loss': 0.14953294396400452}
+>>>Epoch[32] trining batch:50/391 {'loss': 0.14704224467277527}
+>>>Epoch[32] trining batch:100/391 {'loss': 0.21955549716949463}
+>>>Epoch[32] trining batch:150/391 {'loss': 0.155307337641716}
+>>>Epoch[32] trining batch:200/391 {'loss': 0.18843719363212585}
+>>>Epoch[32] trining batch:250/391 {'loss': 0.17279505729675293}
+>>>Epoch[32] trining batch:300/391 {'loss': 0.08323509991168976}
+>>>Epoch[32] trining batch:350/391 {'loss': 0.13773711025714874}
+Epoch[32/199] ETA:119.80min(0.72min/epoch) {'training_acc': 0.9397799968719482, 'epoch': None, 'step': None}
+>>>Epoch[33] trining batch:0/391 {'loss': 0.13132967054843903}
+>>>Epoch[33] trining batch:50/391 {'loss': 0.2437700778245926}
+>>>Epoch[33] trining batch:100/391 {'loss': 0.10433244705200195}
+>>>Epoch[33] trining batch:150/391 {'loss': 0.1493454873561859}
+>>>Epoch[33] trining batch:200/391 {'loss': 0.1094089150428772}
+>>>Epoch[33] trining batch:250/391 {'loss': 0.2176366150379181}
+>>>Epoch[33] trining batch:300/391 {'loss': 0.19898764789104462}
+>>>Epoch[33] trining batch:350/391 {'loss': 0.19138142466545105}
+Epoch[33/199] ETA:117.15min(0.71min/epoch) {'training_acc': 0.9430199861526489, 'epoch': None, 'step': None}
+>>>Epoch[34] trining batch:0/391 {'loss': 0.0847768783569336}
+>>>Epoch[34] trining batch:50/391 {'loss': 0.09655693173408508}
+>>>Epoch[34] trining batch:100/391 {'loss': 0.11038742959499359}
+>>>Epoch[34] trining batch:150/391 {'loss': 0.15629032254219055}
+>>>Epoch[34] trining batch:200/391 {'loss': 0.29537028074264526}
+>>>Epoch[34] trining batch:250/391 {'loss': 0.11730168014764786}
+>>>Epoch[34] trining batch:300/391 {'loss': 0.19915129244327545}
+>>>Epoch[34] trining batch:350/391 {'loss': 0.15257985889911652}
+Epoch[34/199] ETA:117.48min(0.71min/epoch) {'training_acc': 0.9447399973869324, 'epoch': None, 'step': None}
+>>>Epoch[35] trining batch:0/391 {'loss': 0.26725396513938904}
+>>>Epoch[35] trining batch:50/391 {'loss': 0.14805161952972412}
+>>>Epoch[35] trining batch:100/391 {'loss': 0.2694149911403656}
+>>>Epoch[35] trining batch:150/391 {'loss': 0.20713655650615692}
+>>>Epoch[35] trining batch:200/391 {'loss': 0.19917680323123932}
+>>>Epoch[35] trining batch:250/391 {'loss': 0.22380420565605164}
+>>>Epoch[35] trining batch:300/391 {'loss': 0.1328282505273819}
+>>>Epoch[35] trining batch:350/391 {'loss': 0.11443760246038437}
+Epoch[35/199] ETA:115.47min(0.70min/epoch) {'training_acc': 0.9446600079536438, 'epoch': None, 'step': None}
+>>>Epoch[36] trining batch:0/391 {'loss': 0.1622624397277832}
+>>>Epoch[36] trining batch:50/391 {'loss': 0.17229066789150238}
+>>>Epoch[36] trining batch:100/391 {'loss': 0.1118992418050766}
+>>>Epoch[36] trining batch:150/391 {'loss': 0.10456562042236328}
+>>>Epoch[36] trining batch:200/391 {'loss': 0.167825847864151}
+>>>Epoch[36] trining batch:250/391 {'loss': 0.10507574677467346}
+>>>Epoch[36] trining batch:300/391 {'loss': 0.09068895876407623}
+>>>Epoch[36] trining batch:350/391 {'loss': 0.14940181374549866}
+Epoch[36/199] ETA:115.01min(0.71min/epoch) {'training_acc': 0.9463199973106384, 'epoch': None, 'step': None}
+>>>Epoch[37] trining batch:0/391 {'loss': 0.10233544558286667}
+>>>Epoch[37] trining batch:50/391 {'loss': 0.1590813845396042}
+>>>Epoch[37] trining batch:100/391 {'loss': 0.17541228234767914}
+>>>Epoch[37] trining batch:150/391 {'loss': 0.09168991446495056}
+>>>Epoch[37] trining batch:200/391 {'loss': 0.09813091903924942}
+>>>Epoch[37] trining batch:250/391 {'loss': 0.11355359107255936}
+>>>Epoch[37] trining batch:300/391 {'loss': 0.2782490849494934}
+>>>Epoch[37] trining batch:350/391 {'loss': 0.11496683210134506}
+Epoch[37/199] ETA:115.08min(0.71min/epoch) {'training_acc': 0.9477599859237671, 'epoch': None, 'step': None}
+>>>Epoch[38] trining batch:0/391 {'loss': 0.16582708060741425}
+>>>Epoch[38] trining batch:50/391 {'loss': 0.12833689153194427}
+>>>Epoch[38] trining batch:100/391 {'loss': 0.06541384011507034}
+>>>Epoch[38] trining batch:150/391 {'loss': 0.14134196937084198}
+>>>Epoch[38] trining batch:200/391 {'loss': 0.1744595766067505}
+>>>Epoch[38] trining batch:250/391 {'loss': 0.1920139193534851}
+>>>Epoch[38] trining batch:300/391 {'loss': 0.1714724600315094}
+>>>Epoch[38] trining batch:350/391 {'loss': 0.09548372775316238}
+Epoch[38/199] ETA:114.04min(0.71min/epoch) {'training_acc': 0.9483000040054321, 'epoch': None, 'step': None}
+>>>Epoch[39] trining batch:0/391 {'loss': 0.11049932986497879}
+>>>Epoch[39] trining batch:50/391 {'loss': 0.08425909280776978}
+>>>Epoch[39] trining batch:100/391 {'loss': 0.06800954043865204}
+>>>Epoch[39] trining batch:150/391 {'loss': 0.10566063225269318}
+>>>Epoch[39] trining batch:200/391 {'loss': 0.2277955710887909}
+>>>Epoch[39] trining batch:250/391 {'loss': 0.17632438242435455}
+>>>Epoch[39] trining batch:300/391 {'loss': 0.05256778001785278}
+>>>Epoch[39] trining batch:350/391 {'loss': 0.1961241364479065}
+Epoch[39/199] ETA:113.90min(0.71min/epoch) {'training_acc': 0.9529599547386169, 'epoch': None, 'step': None}
+>>>Epoch[40] trining batch:0/391 {'loss': 0.10131712257862091}
+>>>Epoch[40] trining batch:50/391 {'loss': 0.1057698205113411}
+>>>Epoch[40] trining batch:100/391 {'loss': 0.21979354321956635}
+>>>Epoch[40] trining batch:150/391 {'loss': 0.13929012417793274}
+>>>Epoch[40] trining batch:200/391 {'loss': 0.12577712535858154}
+>>>Epoch[40] trining batch:250/391 {'loss': 0.11201957613229752}
+>>>Epoch[40] trining batch:300/391 {'loss': 0.11970330774784088}
+>>>Epoch[40] trining batch:350/391 {'loss': 0.1292746365070343}
+Epoch[40/199] ETA:113.21min(0.71min/epoch) {'training_acc': 0.9509600400924683, 'epoch': None, 'step': None}
+>>>Epoch[41] trining batch:0/391 {'loss': 0.10715267807245255}
+>>>Epoch[41] trining batch:50/391 {'loss': 0.14790745079517365}
+>>>Epoch[41] trining batch:100/391 {'loss': 0.0865628719329834}
+>>>Epoch[41] trining batch:150/391 {'loss': 0.15188448131084442}
+>>>Epoch[41] trining batch:200/391 {'loss': 0.08393339812755585}
+>>>Epoch[41] trining batch:250/391 {'loss': 0.09578268229961395}
+>>>Epoch[41] trining batch:300/391 {'loss': 0.10540088266134262}
+>>>Epoch[41] trining batch:350/391 {'loss': 0.0851890817284584}
+Epoch[41/199] ETA:112.51min(0.71min/epoch) {'training_acc': 0.9509000182151794, 'epoch': None, 'step': None}
+>>>Epoch[42] trining batch:0/391 {'loss': 0.1856432557106018}
+>>>Epoch[42] trining batch:50/391 {'loss': 0.07522029429674149}
+>>>Epoch[42] trining batch:100/391 {'loss': 0.08963818848133087}
+>>>Epoch[42] trining batch:150/391 {'loss': 0.08535535633563995}
+>>>Epoch[42] trining batch:200/391 {'loss': 0.14919763803482056}
+>>>Epoch[42] trining batch:250/391 {'loss': 0.11885999143123627}
+>>>Epoch[42] trining batch:300/391 {'loss': 0.15480807423591614}
+>>>Epoch[42] trining batch:350/391 {'loss': 0.1559152603149414}
+Epoch[42/199] ETA:113.25min(0.72min/epoch) {'training_acc': 0.9534800052642822, 'epoch': None, 'step': None}
+>>>Epoch[43] trining batch:0/391 {'loss': 0.09676140546798706}
+>>>Epoch[43] trining batch:50/391 {'loss': 0.11913459748029709}
+>>>Epoch[43] trining batch:100/391 {'loss': 0.10762514173984528}
+>>>Epoch[43] trining batch:150/391 {'loss': 0.090518057346344}
+>>>Epoch[43] trining batch:200/391 {'loss': 0.12022419273853302}
+>>>Epoch[43] trining batch:250/391 {'loss': 0.17207758128643036}
+>>>Epoch[43] trining batch:300/391 {'loss': 0.11233735829591751}
+>>>Epoch[43] trining batch:350/391 {'loss': 0.1509450525045395}
+Epoch[43/199] ETA:112.35min(0.72min/epoch) {'training_acc': 0.9544200301170349, 'epoch': None, 'step': None}
+>>>Epoch[44] trining batch:0/391 {'loss': 0.11301989108324051}
+>>>Epoch[44] trining batch:50/391 {'loss': 0.07349056005477905}
+>>>Epoch[44] trining batch:100/391 {'loss': 0.1307026594877243}
+>>>Epoch[44] trining batch:150/391 {'loss': 0.13308970630168915}
+>>>Epoch[44] trining batch:200/391 {'loss': 0.1868584305047989}
+>>>Epoch[44] trining batch:250/391 {'loss': 0.21625053882598877}
+>>>Epoch[44] trining batch:300/391 {'loss': 0.16404470801353455}
+>>>Epoch[44] trining batch:350/391 {'loss': 0.05841543897986412}
+Epoch[44/199] ETA:109.93min(0.71min/epoch) {'training_acc': 0.9541599750518799, 'epoch': None, 'step': None}
+>>>Epoch[45] trining batch:0/391 {'loss': 0.1023268774151802}
+>>>Epoch[45] trining batch:50/391 {'loss': 0.15100020170211792}
+>>>Epoch[45] trining batch:100/391 {'loss': 0.07679367810487747}
+>>>Epoch[45] trining batch:150/391 {'loss': 0.2598784863948822}
+>>>Epoch[45] trining batch:200/391 {'loss': 0.10474219918251038}
+>>>Epoch[45] trining batch:250/391 {'loss': 0.09129373729228973}
+>>>Epoch[45] trining batch:300/391 {'loss': 0.2267635017633438}
+>>>Epoch[45] trining batch:350/391 {'loss': 0.14319072663784027}
+Epoch[45/199] ETA:108.35min(0.70min/epoch) {'training_acc': 0.9564399719238281, 'epoch': None, 'step': None}
+>>>Epoch[46] trining batch:0/391 {'loss': 0.09290353953838348}
+>>>Epoch[46] trining batch:50/391 {'loss': 0.09815662354230881}
+>>>Epoch[46] trining batch:100/391 {'loss': 0.11043581366539001}
+>>>Epoch[46] trining batch:150/391 {'loss': 0.2485380470752716}
+>>>Epoch[46] trining batch:200/391 {'loss': 0.08219130337238312}
+>>>Epoch[46] trining batch:250/391 {'loss': 0.1428770124912262}
+>>>Epoch[46] trining batch:300/391 {'loss': 0.10882032662630081}
+>>>Epoch[46] trining batch:350/391 {'loss': 0.20435889065265656}
+Epoch[46/199] ETA:108.29min(0.71min/epoch) {'training_acc': 0.9559999704360962, 'epoch': None, 'step': None}
+>>>Epoch[47] trining batch:0/391 {'loss': 0.0899234414100647}
+>>>Epoch[47] trining batch:50/391 {'loss': 0.13714344799518585}
+>>>Epoch[47] trining batch:100/391 {'loss': 0.15786924958229065}
+>>>Epoch[47] trining batch:150/391 {'loss': 0.08569717407226562}
+>>>Epoch[47] trining batch:200/391 {'loss': 0.12903089821338654}
+>>>Epoch[47] trining batch:250/391 {'loss': 0.10820070654153824}
+>>>Epoch[47] trining batch:300/391 {'loss': 0.14849962294101715}
+>>>Epoch[47] trining batch:350/391 {'loss': 0.12661786377429962}
+Epoch[47/199] ETA:108.06min(0.71min/epoch) {'training_acc': 0.9556999802589417, 'epoch': None, 'step': None}
+>>>Epoch[48] trining batch:0/391 {'loss': 0.11704917252063751}
+>>>Epoch[48] trining batch:50/391 {'loss': 0.10371879488229752}
+>>>Epoch[48] trining batch:100/391 {'loss': 0.11627908051013947}
+>>>Epoch[48] trining batch:150/391 {'loss': 0.13502861559391022}
+>>>Epoch[48] trining batch:200/391 {'loss': 0.12223775684833527}
+>>>Epoch[48] trining batch:250/391 {'loss': 0.14331765472888947}
+>>>Epoch[48] trining batch:300/391 {'loss': 0.13490432500839233}
+>>>Epoch[48] trining batch:350/391 {'loss': 0.07943662256002426}
+Epoch[48/199] ETA:107.83min(0.71min/epoch) {'training_acc': 0.9560999870300293, 'epoch': None, 'step': None}
+>>>Epoch[49] trining batch:0/391 {'loss': 0.08643560856580734}
+>>>Epoch[49] trining batch:50/391 {'loss': 0.14057907462120056}
+>>>Epoch[49] trining batch:100/391 {'loss': 0.13406963646411896}
+>>>Epoch[49] trining batch:150/391 {'loss': 0.13028088212013245}
+>>>Epoch[49] trining batch:200/391 {'loss': 0.11246675252914429}
+>>>Epoch[49] trining batch:250/391 {'loss': 0.07989303022623062}
+>>>Epoch[49] trining batch:300/391 {'loss': 0.16229863464832306}
+>>>Epoch[49] trining batch:350/391 {'loss': 0.0851152241230011}
+Epoch[49/199] ETA:106.79min(0.71min/epoch) {'training_acc': 0.9580399990081787, 'epoch': None, 'step': None}
+>>>Epoch[50] trining batch:0/391 {'loss': 0.2673591673374176}
+>>>Epoch[50] trining batch:50/391 {'loss': 0.08769598603248596}
+>>>Epoch[50] trining batch:100/391 {'loss': 0.20093680918216705}
+>>>Epoch[50] trining batch:150/391 {'loss': 0.10530579835176468}
+>>>Epoch[50] trining batch:200/391 {'loss': 0.1696852743625641}
+>>>Epoch[50] trining batch:250/391 {'loss': 0.2310720533132553}
+>>>Epoch[50] trining batch:300/391 {'loss': 0.07355843484401703}
+>>>Epoch[50] trining batch:350/391 {'loss': 0.14146263897418976}
+Epoch[50/199] ETA:104.99min(0.70min/epoch) {'training_acc': 0.9591400027275085, 'epoch': None, 'step': None}
+>>>Epoch[51] trining batch:0/391 {'loss': 0.08057112991809845}
+>>>Epoch[51] trining batch:50/391 {'loss': 0.17277184128761292}
+>>>Epoch[51] trining batch:100/391 {'loss': 0.13391251862049103}
+>>>Epoch[51] trining batch:150/391 {'loss': 0.14322738349437714}
+>>>Epoch[51] trining batch:200/391 {'loss': 0.10791368037462234}
+>>>Epoch[51] trining batch:250/391 {'loss': 0.07625889033079147}
+>>>Epoch[51] trining batch:300/391 {'loss': 0.09375673532485962}
+>>>Epoch[51] trining batch:350/391 {'loss': 0.15630650520324707}
+Epoch[51/199] ETA:105.80min(0.71min/epoch) {'training_acc': 0.9587599635124207, 'epoch': None, 'step': None}
+>>>Epoch[52] trining batch:0/391 {'loss': 0.13385136425495148}
+>>>Epoch[52] trining batch:50/391 {'loss': 0.13379661738872528}
+>>>Epoch[52] trining batch:100/391 {'loss': 0.11781046539545059}
+>>>Epoch[52] trining batch:150/391 {'loss': 0.08669108897447586}
+>>>Epoch[52] trining batch:200/391 {'loss': 0.07328374683856964}
+>>>Epoch[52] trining batch:250/391 {'loss': 0.16496588289737701}
+>>>Epoch[52] trining batch:300/391 {'loss': 0.09166517108678818}
+>>>Epoch[52] trining batch:350/391 {'loss': 0.14090055227279663}
+Epoch[52/199] ETA:105.72min(0.72min/epoch) {'training_acc': 0.9588799476623535, 'epoch': None, 'step': None}
+>>>Epoch[53] trining batch:0/391 {'loss': 0.06151019409298897}
+>>>Epoch[53] trining batch:50/391 {'loss': 0.10572140663862228}
+>>>Epoch[53] trining batch:100/391 {'loss': 0.1751454621553421}
+>>>Epoch[53] trining batch:150/391 {'loss': 0.12856163084506989}
+>>>Epoch[53] trining batch:200/391 {'loss': 0.12637904286384583}
+>>>Epoch[53] trining batch:250/391 {'loss': 0.07484978437423706}
+>>>Epoch[53] trining batch:300/391 {'loss': 0.09413529932498932}
+>>>Epoch[53] trining batch:350/391 {'loss': 0.15056627988815308}
+Epoch[53/199] ETA:104.11min(0.71min/epoch) {'training_acc': 0.9596400260925293, 'epoch': None, 'step': None}
+>>>Epoch[54] trining batch:0/391 {'loss': 0.1034945398569107}
+>>>Epoch[54] trining batch:50/391 {'loss': 0.04899955913424492}
+>>>Epoch[54] trining batch:100/391 {'loss': 0.0867602527141571}
+>>>Epoch[54] trining batch:150/391 {'loss': 0.25067245960235596}
+>>>Epoch[54] trining batch:200/391 {'loss': 0.10480306297540665}
+>>>Epoch[54] trining batch:250/391 {'loss': 0.12904022634029388}
+>>>Epoch[54] trining batch:300/391 {'loss': 0.08928810060024261}
+>>>Epoch[54] trining batch:350/391 {'loss': 0.2332397699356079}
+Epoch[54/199] ETA:102.66min(0.71min/epoch) {'training_acc': 0.9596400260925293, 'epoch': None, 'step': None}
+>>>Epoch[55] trining batch:0/391 {'loss': 0.15030710399150848}
+>>>Epoch[55] trining batch:50/391 {'loss': 0.06106480956077576}
+>>>Epoch[55] trining batch:100/391 {'loss': 0.08257286995649338}
+>>>Epoch[55] trining batch:150/391 {'loss': 0.09433986246585846}
+>>>Epoch[55] trining batch:200/391 {'loss': 0.09324143826961517}
+>>>Epoch[55] trining batch:250/391 {'loss': 0.03277159854769707}
+>>>Epoch[55] trining batch:300/391 {'loss': 0.10127110779285431}
+>>>Epoch[55] trining batch:350/391 {'loss': 0.2178547978401184}
+Epoch[55/199] ETA:102.06min(0.71min/epoch) {'training_acc': 0.9622599482536316, 'epoch': None, 'step': None}
+>>>Epoch[56] trining batch:0/391 {'loss': 0.07938364148139954}
+>>>Epoch[56] trining batch:50/391 {'loss': 0.1899063140153885}
+>>>Epoch[56] trining batch:100/391 {'loss': 0.15976965427398682}
+>>>Epoch[56] trining batch:150/391 {'loss': 0.09626209735870361}
+>>>Epoch[56] trining batch:200/391 {'loss': 0.06951343268156052}
+>>>Epoch[56] trining batch:250/391 {'loss': 0.15025296807289124}
+>>>Epoch[56] trining batch:300/391 {'loss': 0.12579776346683502}
+>>>Epoch[56] trining batch:350/391 {'loss': 0.09450365602970123}
+Epoch[56/199] ETA:101.83min(0.71min/epoch) {'training_acc': 0.9599999785423279, 'epoch': None, 'step': None}
+>>>Epoch[57] trining batch:0/391 {'loss': 0.06552266329526901}
+>>>Epoch[57] trining batch:50/391 {'loss': 0.10371831804513931}
+>>>Epoch[57] trining batch:100/391 {'loss': 0.089737668633461}
+>>>Epoch[57] trining batch:150/391 {'loss': 0.17366217076778412}
+>>>Epoch[57] trining batch:200/391 {'loss': 0.12520606815814972}
+>>>Epoch[57] trining batch:250/391 {'loss': 0.1787322610616684}
+>>>Epoch[57] trining batch:300/391 {'loss': 0.16390156745910645}
+>>>Epoch[57] trining batch:350/391 {'loss': 0.04717431962490082}
+Epoch[57/199] ETA:100.73min(0.71min/epoch) {'training_acc': 0.9626799821853638, 'epoch': None, 'step': None}
+>>>Epoch[58] trining batch:0/391 {'loss': 0.17870083451271057}
+>>>Epoch[58] trining batch:50/391 {'loss': 0.10219316929578781}
+>>>Epoch[58] trining batch:100/391 {'loss': 0.06804274767637253}
+>>>Epoch[58] trining batch:150/391 {'loss': 0.06027054786682129}
+>>>Epoch[58] trining batch:200/391 {'loss': 0.17347979545593262}
+>>>Epoch[58] trining batch:250/391 {'loss': 0.11459896713495255}
+>>>Epoch[58] trining batch:300/391 {'loss': 0.17672866582870483}
+>>>Epoch[58] trining batch:350/391 {'loss': 0.05669702589511871}
+Epoch[58/199] ETA:99.74min(0.71min/epoch) {'training_acc': 0.9600800275802612, 'epoch': None, 'step': None}
+>>>Epoch[59] trining batch:0/391 {'loss': 0.04828551039099693}
+>>>Epoch[59] trining batch:50/391 {'loss': 0.07463907450437546}
+>>>Epoch[59] trining batch:100/391 {'loss': 0.14702515304088593}
+>>>Epoch[59] trining batch:150/391 {'loss': 0.09727609157562256}
+>>>Epoch[59] trining batch:200/391 {'loss': 0.13647618889808655}
+>>>Epoch[59] trining batch:250/391 {'loss': 0.08580244332551956}
+>>>Epoch[59] trining batch:300/391 {'loss': 0.09657064080238342}
+>>>Epoch[59] trining batch:350/391 {'loss': 0.06631003320217133}
+Epoch[59/199] ETA:101.12min(0.72min/epoch) {'training_acc': 0.964940071105957, 'epoch': None, 'step': None}
+>>>Epoch[60] trining batch:0/391 {'loss': 0.12301834672689438}
+>>>Epoch[60] trining batch:50/391 {'loss': 0.12239565700292587}
+>>>Epoch[60] trining batch:100/391 {'loss': 0.08125913888216019}
+>>>Epoch[60] trining batch:150/391 {'loss': 0.14320430159568787}
+>>>Epoch[60] trining batch:200/391 {'loss': 0.14011645317077637}
+>>>Epoch[60] trining batch:250/391 {'loss': 0.1214497834444046}
+>>>Epoch[60] trining batch:300/391 {'loss': 0.13422614336013794}
+>>>Epoch[60] trining batch:350/391 {'loss': 0.08773548901081085}
+Epoch[60/199] ETA:98.31min(0.71min/epoch) {'training_acc': 0.9619399905204773, 'epoch': None, 'step': None}
+>>>Epoch[61] trining batch:0/391 {'loss': 0.14218217134475708}
+>>>Epoch[61] trining batch:50/391 {'loss': 0.06759665161371231}
+>>>Epoch[61] trining batch:100/391 {'loss': 0.051906559616327286}
+>>>Epoch[61] trining batch:150/391 {'loss': 0.13411132991313934}
+>>>Epoch[61] trining batch:200/391 {'loss': 0.18492624163627625}
+>>>Epoch[61] trining batch:250/391 {'loss': 0.07878746092319489}
+>>>Epoch[61] trining batch:300/391 {'loss': 0.09647785127162933}
+>>>Epoch[61] trining batch:350/391 {'loss': 0.16861768066883087}
+Epoch[61/199] ETA:97.48min(0.71min/epoch) {'training_acc': 0.9613400101661682, 'epoch': None, 'step': None}
+>>>Epoch[62] trining batch:0/391 {'loss': 0.10086236894130707}
+>>>Epoch[62] trining batch:50/391 {'loss': 0.11034654825925827}
+>>>Epoch[62] trining batch:100/391 {'loss': 0.08953573554754257}
+>>>Epoch[62] trining batch:150/391 {'loss': 0.10334385931491852}
+>>>Epoch[62] trining batch:200/391 {'loss': 0.0641050785779953}
+>>>Epoch[62] trining batch:250/391 {'loss': 0.17549952864646912}
+>>>Epoch[62] trining batch:300/391 {'loss': 0.07535198330879211}
+>>>Epoch[62] trining batch:350/391 {'loss': 0.13345561921596527}
+Epoch[62/199] ETA:97.64min(0.71min/epoch) {'training_acc': 0.9639399647712708, 'epoch': None, 'step': None}
+>>>Epoch[63] trining batch:0/391 {'loss': 0.12901628017425537}
+>>>Epoch[63] trining batch:50/391 {'loss': 0.12132773548364639}
+>>>Epoch[63] trining batch:100/391 {'loss': 0.06993242353200912}
+>>>Epoch[63] trining batch:150/391 {'loss': 0.12521274387836456}
+>>>Epoch[63] trining batch:200/391 {'loss': 0.06593666225671768}
+>>>Epoch[63] trining batch:250/391 {'loss': 0.15716306865215302}
+>>>Epoch[63] trining batch:300/391 {'loss': 0.10664337128400803}
+>>>Epoch[63] trining batch:350/391 {'loss': 0.07676150649785995}
+Epoch[63/199] ETA:96.40min(0.71min/epoch) {'training_acc': 0.962939977645874, 'epoch': None, 'step': None}
+>>>Epoch[64] trining batch:0/391 {'loss': 0.12111345678567886}
+>>>Epoch[64] trining batch:50/391 {'loss': 0.038765858858823776}
+>>>Epoch[64] trining batch:100/391 {'loss': 0.11673963069915771}
+>>>Epoch[64] trining batch:150/391 {'loss': 0.036830879747867584}
+>>>Epoch[64] trining batch:200/391 {'loss': 0.06134412810206413}
+>>>Epoch[64] trining batch:250/391 {'loss': 0.17350324988365173}
+>>>Epoch[64] trining batch:300/391 {'loss': 0.08475582301616669}
+>>>Epoch[64] trining batch:350/391 {'loss': 0.10036840289831161}
+Epoch[64/199] ETA:95.63min(0.71min/epoch) {'training_acc': 0.9637600183486938, 'epoch': None, 'step': None}
+>>>Epoch[65] trining batch:0/391 {'loss': 0.08508476614952087}
+>>>Epoch[65] trining batch:50/391 {'loss': 0.1447768360376358}
+>>>Epoch[65] trining batch:100/391 {'loss': 0.04483117535710335}
+>>>Epoch[65] trining batch:150/391 {'loss': 0.07589258253574371}
+>>>Epoch[65] trining batch:200/391 {'loss': 0.0705447867512703}
+>>>Epoch[65] trining batch:250/391 {'loss': 0.03952303156256676}
+>>>Epoch[65] trining batch:300/391 {'loss': 0.09651721268892288}
+>>>Epoch[65] trining batch:350/391 {'loss': 0.05363862216472626}
+Epoch[65/199] ETA:94.55min(0.71min/epoch) {'training_acc': 0.9645799994468689, 'epoch': None, 'step': None}
+>>>Epoch[66] trining batch:0/391 {'loss': 0.06376399844884872}
+>>>Epoch[66] trining batch:50/391 {'loss': 0.08949935436248779}
+>>>Epoch[66] trining batch:100/391 {'loss': 0.07924158871173859}
+>>>Epoch[66] trining batch:150/391 {'loss': 0.11553044617176056}
+>>>Epoch[66] trining batch:200/391 {'loss': 0.12078525871038437}
+>>>Epoch[66] trining batch:250/391 {'loss': 0.15314991772174835}
+>>>Epoch[66] trining batch:300/391 {'loss': 0.03924700617790222}
+>>>Epoch[66] trining batch:350/391 {'loss': 0.10861560702323914}
+Epoch[66/199] ETA:94.25min(0.71min/epoch) {'training_acc': 0.9642200469970703, 'epoch': None, 'step': None}
+>>>Epoch[67] trining batch:0/391 {'loss': 0.09061801433563232}
+>>>Epoch[67] trining batch:50/391 {'loss': 0.0747278705239296}
+>>>Epoch[67] trining batch:100/391 {'loss': 0.14619368314743042}
+>>>Epoch[67] trining batch:150/391 {'loss': 0.12384912371635437}
+>>>Epoch[67] trining batch:200/391 {'loss': 0.1692112386226654}
+>>>Epoch[67] trining batch:250/391 {'loss': 0.05897292122244835}
+>>>Epoch[67] trining batch:300/391 {'loss': 0.10606415569782257}
+>>>Epoch[67] trining batch:350/391 {'loss': 0.168483167886734}
+Epoch[67/199] ETA:93.16min(0.71min/epoch) {'training_acc': 0.9644200205802917, 'epoch': None, 'step': None}
+>>>Epoch[68] trining batch:0/391 {'loss': 0.06541667878627777}
+>>>Epoch[68] trining batch:50/391 {'loss': 0.06869012862443924}
+>>>Epoch[68] trining batch:100/391 {'loss': 0.041049279272556305}
+>>>Epoch[68] trining batch:150/391 {'loss': 0.07567966729402542}
+>>>Epoch[68] trining batch:200/391 {'loss': 0.07068974524736404}
+>>>Epoch[68] trining batch:250/391 {'loss': 0.08386862277984619}
+>>>Epoch[68] trining batch:300/391 {'loss': 0.10853143036365509}
+>>>Epoch[68] trining batch:350/391 {'loss': 0.11003301292657852}
+Epoch[68/199] ETA:92.62min(0.71min/epoch) {'training_acc': 0.9641400575637817, 'epoch': None, 'step': None}
+>>>Epoch[69] trining batch:0/391 {'loss': 0.06679495424032211}
+>>>Epoch[69] trining batch:50/391 {'loss': 0.035112012177705765}
+>>>Epoch[69] trining batch:100/391 {'loss': 0.07088140398263931}
+>>>Epoch[69] trining batch:150/391 {'loss': 0.12555530667304993}
+>>>Epoch[69] trining batch:200/391 {'loss': 0.1555328518152237}
+>>>Epoch[69] trining batch:250/391 {'loss': 0.1057811751961708}
+>>>Epoch[69] trining batch:300/391 {'loss': 0.07876758277416229}
+>>>Epoch[69] trining batch:350/391 {'loss': 0.09499801695346832}
+Epoch[69/199] ETA:91.96min(0.71min/epoch) {'training_acc': 0.9652199745178223, 'epoch': None, 'step': None}
+>>>Epoch[70] trining batch:0/391 {'loss': 0.09926755726337433}
+>>>Epoch[70] trining batch:50/391 {'loss': 0.08504380285739899}
+>>>Epoch[70] trining batch:100/391 {'loss': 0.11920303851366043}
+>>>Epoch[70] trining batch:150/391 {'loss': 0.022173915058374405}
+>>>Epoch[70] trining batch:200/391 {'loss': 0.08866558969020844}
+>>>Epoch[70] trining batch:250/391 {'loss': 0.08543001115322113}
+>>>Epoch[70] trining batch:300/391 {'loss': 0.22795945405960083}
+>>>Epoch[70] trining batch:350/391 {'loss': 0.11496889591217041}
+Epoch[70/199] ETA:91.51min(0.71min/epoch) {'training_acc': 0.9655599594116211, 'epoch': None, 'step': None}
+>>>Epoch[71] trining batch:0/391 {'loss': 0.12954658269882202}
+>>>Epoch[71] trining batch:50/391 {'loss': 0.05623351410031319}
+>>>Epoch[71] trining batch:100/391 {'loss': 0.09009463340044022}
+>>>Epoch[71] trining batch:150/391 {'loss': 0.08206907659769058}
+>>>Epoch[71] trining batch:200/391 {'loss': 0.082219198346138}
+>>>Epoch[71] trining batch:250/391 {'loss': 0.14823731780052185}
+>>>Epoch[71] trining batch:300/391 {'loss': 0.1571810245513916}
+>>>Epoch[71] trining batch:350/391 {'loss': 0.11415572464466095}
+Epoch[71/199] ETA:90.67min(0.71min/epoch) {'training_acc': 0.9651600122451782, 'epoch': None, 'step': None}
+>>>Epoch[72] trining batch:0/391 {'loss': 0.11763545125722885}
+>>>Epoch[72] trining batch:50/391 {'loss': 0.08401118218898773}
+>>>Epoch[72] trining batch:100/391 {'loss': 0.17365005612373352}
+>>>Epoch[72] trining batch:150/391 {'loss': 0.12496114522218704}
+>>>Epoch[72] trining batch:200/391 {'loss': 0.11202479153871536}
+>>>Epoch[72] trining batch:250/391 {'loss': 0.04842013120651245}
+>>>Epoch[72] trining batch:300/391 {'loss': 0.12942376732826233}
+>>>Epoch[72] trining batch:350/391 {'loss': 0.08582618087530136}
+Epoch[72/199] ETA:90.93min(0.72min/epoch) {'training_acc': 0.9675999879837036, 'epoch': None, 'step': None}
+>>>Epoch[73] trining batch:0/391 {'loss': 0.17126575112342834}
+>>>Epoch[73] trining batch:50/391 {'loss': 0.09124165773391724}
+>>>Epoch[73] trining batch:100/391 {'loss': 0.05160246416926384}
+>>>Epoch[73] trining batch:150/391 {'loss': 0.10772804170846939}
+>>>Epoch[73] trining batch:200/391 {'loss': 0.10591702908277512}
+>>>Epoch[73] trining batch:250/391 {'loss': 0.15247391164302826}
+>>>Epoch[73] trining batch:300/391 {'loss': 0.06648983806371689}
+>>>Epoch[73] trining batch:350/391 {'loss': 0.04433959349989891}
+Epoch[73/199] ETA:90.57min(0.72min/epoch) {'training_acc': 0.9657799601554871, 'epoch': None, 'step': None}
+>>>Epoch[74] trining batch:0/391 {'loss': 0.0757814422249794}
+>>>Epoch[74] trining batch:50/391 {'loss': 0.03695209324359894}
+>>>Epoch[74] trining batch:100/391 {'loss': 0.12384746968746185}
+>>>Epoch[74] trining batch:150/391 {'loss': 0.09078197926282883}
+>>>Epoch[74] trining batch:200/391 {'loss': 0.14281900227069855}
+>>>Epoch[74] trining batch:250/391 {'loss': 0.11563211679458618}
+>>>Epoch[74] trining batch:300/391 {'loss': 0.07440416514873505}
+>>>Epoch[74] trining batch:350/391 {'loss': 0.12540410459041595}
+Epoch[74/199] ETA:88.60min(0.71min/epoch) {'training_acc': 0.9666000008583069, 'epoch': None, 'step': None}
+>>>Epoch[75] trining batch:0/391 {'loss': 0.1268041580915451}
+>>>Epoch[75] trining batch:50/391 {'loss': 0.08521676063537598}
+>>>Epoch[75] trining batch:100/391 {'loss': 0.13136982917785645}
+>>>Epoch[75] trining batch:150/391 {'loss': 0.14465101063251495}
+>>>Epoch[75] trining batch:200/391 {'loss': 0.029253030195832253}
+>>>Epoch[75] trining batch:250/391 {'loss': 0.154900461435318}
+>>>Epoch[75] trining batch:300/391 {'loss': 0.14478284120559692}
+>>>Epoch[75] trining batch:350/391 {'loss': 0.14947009086608887}
+Epoch[75/199] ETA:88.01min(0.71min/epoch) {'training_acc': 0.9659799933433533, 'epoch': None, 'step': None}
+>>>Epoch[76] trining batch:0/391 {'loss': 0.07265771925449371}
+>>>Epoch[76] trining batch:50/391 {'loss': 0.07061861455440521}
+>>>Epoch[76] trining batch:100/391 {'loss': 0.02083115465939045}
+>>>Epoch[76] trining batch:150/391 {'loss': 0.12393783032894135}
+>>>Epoch[76] trining batch:200/391 {'loss': 0.08179908990859985}
+>>>Epoch[76] trining batch:250/391 {'loss': 0.09118349105119705}
+>>>Epoch[76] trining batch:300/391 {'loss': 0.11311346292495728}
+>>>Epoch[76] trining batch:350/391 {'loss': 0.08775912970304489}
+Epoch[76/199] ETA:87.56min(0.71min/epoch) {'training_acc': 0.9677000641822815, 'epoch': None, 'step': None}
+>>>Epoch[77] trining batch:0/391 {'loss': 0.03937506675720215}
+>>>Epoch[77] trining batch:50/391 {'loss': 0.03723559156060219}
+>>>Epoch[77] trining batch:100/391 {'loss': 0.12058091908693314}
+>>>Epoch[77] trining batch:150/391 {'loss': 0.09937181323766708}
+>>>Epoch[77] trining batch:200/391 {'loss': 0.045034993439912796}
+>>>Epoch[77] trining batch:250/391 {'loss': 0.13210280239582062}
+>>>Epoch[77] trining batch:300/391 {'loss': 0.08790398389101028}
+>>>Epoch[77] trining batch:350/391 {'loss': 0.04305558651685715}
+Epoch[77/199] ETA:86.16min(0.71min/epoch) {'training_acc': 0.9676799774169922, 'epoch': None, 'step': None}
+>>>Epoch[78] trining batch:0/391 {'loss': 0.05433181673288345}
+>>>Epoch[78] trining batch:50/391 {'loss': 0.09092047810554504}
+>>>Epoch[78] trining batch:100/391 {'loss': 0.1162487119436264}
+>>>Epoch[78] trining batch:150/391 {'loss': 0.05314452573657036}
+>>>Epoch[78] trining batch:200/391 {'loss': 0.058848634362220764}
+>>>Epoch[78] trining batch:250/391 {'loss': 0.14049577713012695}
+>>>Epoch[78] trining batch:300/391 {'loss': 0.04764105752110481}
+>>>Epoch[78] trining batch:350/391 {'loss': 0.08594463020563126}
+Epoch[78/199] ETA:85.59min(0.71min/epoch) {'training_acc': 0.9663400053977966, 'epoch': None, 'step': None}
+>>>Epoch[79] trining batch:0/391 {'loss': 0.08924537897109985}
+>>>Epoch[79] trining batch:50/391 {'loss': 0.07536917924880981}
+>>>Epoch[79] trining batch:100/391 {'loss': 0.1012299656867981}
+>>>Epoch[79] trining batch:150/391 {'loss': 0.040641676634550095}
+>>>Epoch[79] trining batch:200/391 {'loss': 0.07108847051858902}
+>>>Epoch[79] trining batch:250/391 {'loss': 0.11304955929517746}
+>>>Epoch[79] trining batch:300/391 {'loss': 0.04002806544303894}
+>>>Epoch[79] trining batch:350/391 {'loss': 0.12297338247299194}
+Epoch[79/199] ETA:85.40min(0.71min/epoch) {'training_acc': 0.9670599699020386, 'epoch': None, 'step': None}
+>>>Epoch[80] trining batch:0/391 {'loss': 0.08354543894529343}
+>>>Epoch[80] trining batch:50/391 {'loss': 0.11538680642843246}
+>>>Epoch[80] trining batch:100/391 {'loss': 0.09751428663730621}
+>>>Epoch[80] trining batch:150/391 {'loss': 0.10766344517469406}
+>>>Epoch[80] trining batch:200/391 {'loss': 0.09919380396604538}
+>>>Epoch[80] trining batch:250/391 {'loss': 0.02735624462366104}
+>>>Epoch[80] trining batch:300/391 {'loss': 0.13611330091953278}
+>>>Epoch[80] trining batch:350/391 {'loss': 0.12755127251148224}
+Epoch[80/199] ETA:84.26min(0.71min/epoch) {'training_acc': 0.9678999781608582, 'epoch': None, 'step': None}
+>>>Epoch[81] trining batch:0/391 {'loss': 0.14292216300964355}
+>>>Epoch[81] trining batch:50/391 {'loss': 0.07656659930944443}
+>>>Epoch[81] trining batch:100/391 {'loss': 0.10111843049526215}
+>>>Epoch[81] trining batch:150/391 {'loss': 0.030007457360625267}
+>>>Epoch[81] trining batch:200/391 {'loss': 0.12680061161518097}
+>>>Epoch[81] trining batch:250/391 {'loss': 0.10293084383010864}
+>>>Epoch[81] trining batch:300/391 {'loss': 0.05448789894580841}
+>>>Epoch[81] trining batch:350/391 {'loss': 0.07730866968631744}
+Epoch[81/199] ETA:85.01min(0.72min/epoch) {'training_acc': 0.9676400423049927, 'epoch': None, 'step': None}
+>>>Epoch[82] trining batch:0/391 {'loss': 0.10712064802646637}
+>>>Epoch[82] trining batch:50/391 {'loss': 0.14353275299072266}
+>>>Epoch[82] trining batch:100/391 {'loss': 0.12239197641611099}
+>>>Epoch[82] trining batch:150/391 {'loss': 0.15366795659065247}
+>>>Epoch[82] trining batch:200/391 {'loss': 0.09635939449071884}
+>>>Epoch[82] trining batch:250/391 {'loss': 0.08734264969825745}
+>>>Epoch[82] trining batch:300/391 {'loss': 0.09317508339881897}
+>>>Epoch[82] trining batch:350/391 {'loss': 0.07434600591659546}
+Epoch[82/199] ETA:83.22min(0.71min/epoch) {'training_acc': 0.9672200083732605, 'epoch': None, 'step': None}
+>>>Epoch[83] trining batch:0/391 {'loss': 0.10908845067024231}
+>>>Epoch[83] trining batch:50/391 {'loss': 0.09121590107679367}
+>>>Epoch[83] trining batch:100/391 {'loss': 0.23578894138336182}
+>>>Epoch[83] trining batch:150/391 {'loss': 0.08627496659755707}
+>>>Epoch[83] trining batch:200/391 {'loss': 0.1946018934249878}
+>>>Epoch[83] trining batch:250/391 {'loss': 0.09800262004137039}
+>>>Epoch[83] trining batch:300/391 {'loss': 0.11620642244815826}
+>>>Epoch[83] trining batch:350/391 {'loss': 0.10451428592205048}
+Epoch[83/199] ETA:83.43min(0.72min/epoch) {'training_acc': 0.9666000604629517, 'epoch': None, 'step': None}
+>>>Epoch[84] trining batch:0/391 {'loss': 0.093703493475914}
+>>>Epoch[84] trining batch:50/391 {'loss': 0.08177323639392853}
+>>>Epoch[84] trining batch:100/391 {'loss': 0.10669269412755966}
+>>>Epoch[84] trining batch:150/391 {'loss': 0.06662634760141373}
+>>>Epoch[84] trining batch:200/391 {'loss': 0.1262335479259491}
+>>>Epoch[84] trining batch:250/391 {'loss': 0.10492390394210815}
+>>>Epoch[84] trining batch:300/391 {'loss': 0.08414050936698914}
+>>>Epoch[84] trining batch:350/391 {'loss': 0.1335744857788086}
+Epoch[84/199] ETA:81.56min(0.71min/epoch) {'training_acc': 0.9681400060653687, 'epoch': None, 'step': None}
+>>>Epoch[85] trining batch:0/391 {'loss': 0.08478600531816483}
+>>>Epoch[85] trining batch:50/391 {'loss': 0.08750977367162704}
+>>>Epoch[85] trining batch:100/391 {'loss': 0.10006988793611526}
+>>>Epoch[85] trining batch:150/391 {'loss': 0.12293471395969391}
+>>>Epoch[85] trining batch:200/391 {'loss': 0.051024310290813446}
+>>>Epoch[85] trining batch:250/391 {'loss': 0.08837306499481201}
+>>>Epoch[85] trining batch:300/391 {'loss': 0.08402948826551437}
+>>>Epoch[85] trining batch:350/391 {'loss': 0.15497924387454987}
+Epoch[85/199] ETA:80.48min(0.71min/epoch) {'training_acc': 0.9686400294303894, 'epoch': None, 'step': None}
+>>>Epoch[86] trining batch:0/391 {'loss': 0.06741473078727722}
+>>>Epoch[86] trining batch:50/391 {'loss': 0.11860188841819763}
+>>>Epoch[86] trining batch:100/391 {'loss': 0.11533953994512558}
+>>>Epoch[86] trining batch:150/391 {'loss': 0.060002390295267105}
+>>>Epoch[86] trining batch:200/391 {'loss': 0.0502711646258831}
+>>>Epoch[86] trining batch:250/391 {'loss': 0.12808933854103088}
+>>>Epoch[86] trining batch:300/391 {'loss': 0.0864778533577919}
+>>>Epoch[86] trining batch:350/391 {'loss': 0.06437496840953827}
+Epoch[86/199] ETA:80.40min(0.71min/epoch) {'training_acc': 0.9693800210952759, 'epoch': None, 'step': None}
+>>>Epoch[87] trining batch:0/391 {'loss': 0.07118077576160431}
+>>>Epoch[87] trining batch:50/391 {'loss': 0.0643032044172287}
+>>>Epoch[87] trining batch:100/391 {'loss': 0.0393274687230587}
+>>>Epoch[87] trining batch:150/391 {'loss': 0.031194398179650307}
+>>>Epoch[87] trining batch:200/391 {'loss': 0.10577557235956192}
+>>>Epoch[87] trining batch:250/391 {'loss': 0.03275766223669052}
+>>>Epoch[87] trining batch:300/391 {'loss': 0.07878562808036804}
+>>>Epoch[87] trining batch:350/391 {'loss': 0.08572684228420258}
+Epoch[87/199] ETA:79.80min(0.71min/epoch) {'training_acc': 0.9691800475120544, 'epoch': None, 'step': None}
+>>>Epoch[88] trining batch:0/391 {'loss': 0.035615988075733185}
+>>>Epoch[88] trining batch:50/391 {'loss': 0.07667867839336395}
+>>>Epoch[88] trining batch:100/391 {'loss': 0.04297025501728058}
+>>>Epoch[88] trining batch:150/391 {'loss': 0.14890986680984497}
+>>>Epoch[88] trining batch:200/391 {'loss': 0.07500403374433517}
+>>>Epoch[88] trining batch:250/391 {'loss': 0.0568728893995285}
+>>>Epoch[88] trining batch:300/391 {'loss': 0.08947962522506714}
+>>>Epoch[88] trining batch:350/391 {'loss': 0.0841003805398941}
+Epoch[88/199] ETA:79.94min(0.72min/epoch) {'training_acc': 0.9695600271224976, 'epoch': None, 'step': None}
+>>>Epoch[89] trining batch:0/391 {'loss': 0.05978811904788017}
+>>>Epoch[89] trining batch:50/391 {'loss': 0.09442117810249329}
+>>>Epoch[89] trining batch:100/391 {'loss': 0.07391361147165298}
+>>>Epoch[89] trining batch:150/391 {'loss': 0.049350325018167496}
+>>>Epoch[89] trining batch:200/391 {'loss': 0.1250215470790863}
+>>>Epoch[89] trining batch:250/391 {'loss': 0.1035267636179924}
+>>>Epoch[89] trining batch:300/391 {'loss': 0.03622235730290413}
+>>>Epoch[89] trining batch:350/391 {'loss': 0.10370396077632904}
+Epoch[89/199] ETA:78.53min(0.71min/epoch) {'training_acc': 0.9688199758529663, 'epoch': None, 'step': None}
+>>>Epoch[90] trining batch:0/391 {'loss': 0.08978897333145142}
+>>>Epoch[90] trining batch:50/391 {'loss': 0.13672876358032227}
+>>>Epoch[90] trining batch:100/391 {'loss': 0.04610335826873779}
+>>>Epoch[90] trining batch:150/391 {'loss': 0.06663363426923752}
+>>>Epoch[90] trining batch:200/391 {'loss': 0.17971009016036987}
+>>>Epoch[90] trining batch:250/391 {'loss': 0.045193493366241455}
+>>>Epoch[90] trining batch:300/391 {'loss': 0.1329139918088913}
+>>>Epoch[90] trining batch:350/391 {'loss': 0.11545296758413315}
+Epoch[90/199] ETA:77.97min(0.72min/epoch) {'training_acc': 0.9683200120925903, 'epoch': None, 'step': None}
+>>>Epoch[91] trining batch:0/391 {'loss': 0.09327014535665512}
+>>>Epoch[91] trining batch:50/391 {'loss': 0.05487797036767006}
+>>>Epoch[91] trining batch:100/391 {'loss': 0.035303257405757904}
+>>>Epoch[91] trining batch:150/391 {'loss': 0.10818911343812943}
+>>>Epoch[91] trining batch:200/391 {'loss': 0.10200144350528717}
+>>>Epoch[91] trining batch:250/391 {'loss': 0.025920087471604347}
+>>>Epoch[91] trining batch:300/391 {'loss': 0.0716322809457779}
+>>>Epoch[91] trining batch:350/391 {'loss': 0.06470398604869843}
+Epoch[91/199] ETA:77.36min(0.72min/epoch) {'training_acc': 0.9688000082969666, 'epoch': None, 'step': None}
+>>>Epoch[92] trining batch:0/391 {'loss': 0.04056960716843605}
+>>>Epoch[92] trining batch:50/391 {'loss': 0.03595975786447525}
+>>>Epoch[92] trining batch:100/391 {'loss': 0.04792432114481926}
+>>>Epoch[92] trining batch:150/391 {'loss': 0.09333519637584686}
+>>>Epoch[92] trining batch:200/391 {'loss': 0.15041519701480865}
+>>>Epoch[92] trining batch:250/391 {'loss': 0.07418248057365417}
+>>>Epoch[92] trining batch:300/391 {'loss': 0.0354570634663105}
+>>>Epoch[92] trining batch:350/391 {'loss': 0.07684807479381561}
+Epoch[92/199] ETA:77.03min(0.72min/epoch) {'training_acc': 0.9694600105285645, 'epoch': None, 'step': None}
+>>>Epoch[93] trining batch:0/391 {'loss': 0.05089805647730827}
+>>>Epoch[93] trining batch:50/391 {'loss': 0.10095637291669846}
+>>>Epoch[93] trining batch:100/391 {'loss': 0.10247626900672913}
+>>>Epoch[93] trining batch:150/391 {'loss': 0.12602189183235168}
+>>>Epoch[93] trining batch:200/391 {'loss': 0.051542092114686966}
+>>>Epoch[93] trining batch:250/391 {'loss': 0.051344193518161774}
+>>>Epoch[93] trining batch:300/391 {'loss': 0.03304161876440048}
+>>>Epoch[93] trining batch:350/391 {'loss': 0.12449517846107483}
+Epoch[93/199] ETA:75.79min(0.72min/epoch) {'training_acc': 0.9686999917030334, 'epoch': None, 'step': None}
+>>>Epoch[94] trining batch:0/391 {'loss': 0.04247003048658371}
+>>>Epoch[94] trining batch:50/391 {'loss': 0.08574319630861282}
+>>>Epoch[94] trining batch:100/391 {'loss': 0.09598077088594437}
+>>>Epoch[94] trining batch:150/391 {'loss': 0.09279493242502213}
+>>>Epoch[94] trining batch:200/391 {'loss': 0.026943381875753403}
+>>>Epoch[94] trining batch:250/391 {'loss': 0.11167432367801666}
+>>>Epoch[94] trining batch:300/391 {'loss': 0.07714414596557617}
+>>>Epoch[94] trining batch:350/391 {'loss': 0.1463010311126709}
+Epoch[94/199] ETA:74.78min(0.71min/epoch) {'training_acc': 0.9673600196838379, 'epoch': None, 'step': None}
+>>>Epoch[95] trining batch:0/391 {'loss': 0.05168934538960457}
+>>>Epoch[95] trining batch:50/391 {'loss': 0.07982226461172104}
+>>>Epoch[95] trining batch:100/391 {'loss': 0.06669269502162933}
+>>>Epoch[95] trining batch:150/391 {'loss': 0.14316867291927338}
+>>>Epoch[95] trining batch:200/391 {'loss': 0.07191771268844604}
+>>>Epoch[95] trining batch:250/391 {'loss': 0.0976177528500557}
+>>>Epoch[95] trining batch:300/391 {'loss': 0.093495212495327}
+>>>Epoch[95] trining batch:350/391 {'loss': 0.131320983171463}
+Epoch[95/199] ETA:75.27min(0.72min/epoch) {'training_acc': 0.968720018863678, 'epoch': None, 'step': None}
+>>>Epoch[96] trining batch:0/391 {'loss': 0.13162797689437866}
+>>>Epoch[96] trining batch:50/391 {'loss': 0.0421317033469677}
+>>>Epoch[96] trining batch:100/391 {'loss': 0.032613057643175125}
+>>>Epoch[96] trining batch:150/391 {'loss': 0.03222847357392311}
+>>>Epoch[96] trining batch:200/391 {'loss': 0.11733871698379517}
+>>>Epoch[96] trining batch:250/391 {'loss': 0.06713517010211945}
+>>>Epoch[96] trining batch:300/391 {'loss': 0.04769107326865196}
+>>>Epoch[96] trining batch:350/391 {'loss': 0.08790816366672516}
+Epoch[96/199] ETA:74.17min(0.72min/epoch) {'training_acc': 0.9697799682617188, 'epoch': None, 'step': None}
+>>>Epoch[97] trining batch:0/391 {'loss': 0.09614208340644836}
+>>>Epoch[97] trining batch:50/391 {'loss': 0.09056122601032257}
+>>>Epoch[97] trining batch:100/391 {'loss': 0.07464796304702759}
+>>>Epoch[97] trining batch:150/391 {'loss': 0.07749637216329575}
+>>>Epoch[97] trining batch:200/391 {'loss': 0.05643566697835922}
+>>>Epoch[97] trining batch:250/391 {'loss': 0.1773938238620758}
+>>>Epoch[97] trining batch:300/391 {'loss': 0.0826999694108963}
+>>>Epoch[97] trining batch:350/391 {'loss': 0.09225371479988098}
+Epoch[97/199] ETA:73.03min(0.72min/epoch) {'training_acc': 0.9701399803161621, 'epoch': None, 'step': None}
+>>>Epoch[98] trining batch:0/391 {'loss': 0.07857868820428848}
+>>>Epoch[98] trining batch:50/391 {'loss': 0.0646219551563263}
+>>>Epoch[98] trining batch:100/391 {'loss': 0.09746833145618439}
+>>>Epoch[98] trining batch:150/391 {'loss': 0.06547856330871582}
+>>>Epoch[98] trining batch:200/391 {'loss': 0.13118422031402588}
+>>>Epoch[98] trining batch:250/391 {'loss': 0.07965820282697678}
+>>>Epoch[98] trining batch:300/391 {'loss': 0.10342072695493698}
+>>>Epoch[98] trining batch:350/391 {'loss': 0.1376289278268814}
+Epoch[98/199] ETA:71.86min(0.71min/epoch) {'training_acc': 0.969539999961853, 'epoch': None, 'step': None}
+>>>Epoch[99] trining batch:0/391 {'loss': 0.04714726656675339}
+>>>Epoch[99] trining batch:50/391 {'loss': 0.08011379837989807}
+>>>Epoch[99] trining batch:100/391 {'loss': 0.037662383168935776}
+>>>Epoch[99] trining batch:150/391 {'loss': 0.0854487270116806}
+>>>Epoch[99] trining batch:200/391 {'loss': 0.1732436567544937}
+>>>Epoch[99] trining batch:250/391 {'loss': 0.14191100001335144}
+>>>Epoch[99] trining batch:300/391 {'loss': 0.05848704278469086}
+>>>Epoch[99] trining batch:350/391 {'loss': 0.18191297352313995}
+Epoch[99/199] ETA:71.72min(0.72min/epoch) {'training_acc': 0.9712400436401367, 'epoch': None, 'step': None}
+>>>Epoch[100] trining batch:0/391 {'loss': 0.1230376660823822}
+>>>Epoch[100] trining batch:50/391 {'loss': 0.01406052801758051}
+>>>Epoch[100] trining batch:100/391 {'loss': 0.04713614284992218}
+>>>Epoch[100] trining batch:150/391 {'loss': 0.07574937492609024}
+>>>Epoch[100] trining batch:200/391 {'loss': 0.033673226833343506}
+>>>Epoch[100] trining batch:250/391 {'loss': 0.003647390753030777}
+>>>Epoch[100] trining batch:300/391 {'loss': 0.010361963883042336}
+>>>Epoch[100] trining batch:350/391 {'loss': 0.019609900191426277}
+Epoch[100/199] ETA:71.46min(0.72min/epoch) {'training_acc': 0.9897599816322327, 'epoch': None, 'step': None}
+>>>Epoch[101] trining batch:0/391 {'loss': 0.0210756603628397}
+>>>Epoch[101] trining batch:50/391 {'loss': 0.014601195231080055}
+>>>Epoch[101] trining batch:100/391 {'loss': 0.010419481433928013}
+>>>Epoch[101] trining batch:150/391 {'loss': 0.030576378107070923}
+>>>Epoch[101] trining batch:200/391 {'loss': 0.003410073695704341}
+>>>Epoch[101] trining batch:250/391 {'loss': 0.010220693424344063}
+>>>Epoch[101] trining batch:300/391 {'loss': 0.024008899927139282}
+>>>Epoch[101] trining batch:350/391 {'loss': 0.0094919977709651}
+Epoch[101/199] ETA:69.80min(0.71min/epoch) {'training_acc': 0.9949000477790833, 'epoch': None, 'step': None}
+>>>Epoch[102] trining batch:0/391 {'loss': 0.0404718741774559}
+>>>Epoch[102] trining batch:50/391 {'loss': 0.005483446177095175}
+>>>Epoch[102] trining batch:100/391 {'loss': 0.0010865392396226525}
+>>>Epoch[102] trining batch:150/391 {'loss': 0.012654297985136509}
+>>>Epoch[102] trining batch:200/391 {'loss': 0.016296349465847015}
+>>>Epoch[102] trining batch:250/391 {'loss': 0.011304107494652271}
+>>>Epoch[102] trining batch:300/391 {'loss': 0.006421835161745548}
+>>>Epoch[102] trining batch:350/391 {'loss': 0.03448311984539032}
+Epoch[102/199] ETA:68.71min(0.71min/epoch) {'training_acc': 0.996880054473877, 'epoch': None, 'step': None}
+>>>Epoch[103] trining batch:0/391 {'loss': 0.0034824684262275696}
+>>>Epoch[103] trining batch:50/391 {'loss': 0.00570558151230216}
+>>>Epoch[103] trining batch:100/391 {'loss': 0.007152948994189501}
+>>>Epoch[103] trining batch:150/391 {'loss': 0.02338339574635029}
+>>>Epoch[103] trining batch:200/391 {'loss': 0.004632800351828337}
+>>>Epoch[103] trining batch:250/391 {'loss': 0.001357369008474052}
+>>>Epoch[103] trining batch:300/391 {'loss': 0.014935686253011227}
+>>>Epoch[103] trining batch:350/391 {'loss': 0.027576055377721786}
+Epoch[103/199] ETA:68.30min(0.71min/epoch) {'training_acc': 0.9972800016403198, 'epoch': None, 'step': None}
+>>>Epoch[104] trining batch:0/391 {'loss': 0.004917609505355358}
+>>>Epoch[104] trining batch:50/391 {'loss': 0.0029864287935197353}
+>>>Epoch[104] trining batch:100/391 {'loss': 0.0052022128365933895}
+>>>Epoch[104] trining batch:150/391 {'loss': 0.0015367240412160754}
+>>>Epoch[104] trining batch:200/391 {'loss': 0.008890056051313877}
+>>>Epoch[104] trining batch:250/391 {'loss': 0.002506181364879012}
+>>>Epoch[104] trining batch:300/391 {'loss': 0.002909937407821417}
+>>>Epoch[104] trining batch:350/391 {'loss': 0.003053175751119852}
+Epoch[104/199] ETA:67.47min(0.71min/epoch) {'training_acc': 0.9981800317764282, 'epoch': None, 'step': None}
+>>>Epoch[105] trining batch:0/391 {'loss': 0.013363025151193142}
+>>>Epoch[105] trining batch:50/391 {'loss': 0.0026951776817440987}
+>>>Epoch[105] trining batch:100/391 {'loss': 0.008841674774885178}
+>>>Epoch[105] trining batch:150/391 {'loss': 0.002145324368029833}
+>>>Epoch[105] trining batch:200/391 {'loss': 0.0014277881709858775}
+>>>Epoch[105] trining batch:250/391 {'loss': 0.0012240434298291802}
+>>>Epoch[105] trining batch:300/391 {'loss': 0.001267392304725945}
+>>>Epoch[105] trining batch:350/391 {'loss': 0.0023193052038550377}
+Epoch[105/199] ETA:66.49min(0.71min/epoch) {'training_acc': 0.9986200332641602, 'epoch': None, 'step': None}
+>>>Epoch[106] trining batch:0/391 {'loss': 0.0023398653138428926}
+>>>Epoch[106] trining batch:50/391 {'loss': 0.0064543504267930984}
+>>>Epoch[106] trining batch:100/391 {'loss': 0.001700071501545608}
+>>>Epoch[106] trining batch:150/391 {'loss': 0.0038301863241940737}
+>>>Epoch[106] trining batch:200/391 {'loss': 0.008019213564693928}
+>>>Epoch[106] trining batch:250/391 {'loss': 0.005579986143857241}
+>>>Epoch[106] trining batch:300/391 {'loss': 0.006380119360983372}
+>>>Epoch[106] trining batch:350/391 {'loss': 0.0021977389696985483}
+Epoch[106/199] ETA:66.38min(0.71min/epoch) {'training_acc': 0.9985999464988708, 'epoch': None, 'step': None}
+>>>Epoch[107] trining batch:0/391 {'loss': 0.006580612156540155}
+>>>Epoch[107] trining batch:50/391 {'loss': 0.005938058719038963}
+>>>Epoch[107] trining batch:100/391 {'loss': 0.0037430182565003633}
+>>>Epoch[107] trining batch:150/391 {'loss': 0.0020590852946043015}
+>>>Epoch[107] trining batch:200/391 {'loss': 0.004031024873256683}
+>>>Epoch[107] trining batch:250/391 {'loss': 0.002379580168053508}
+>>>Epoch[107] trining batch:300/391 {'loss': 0.003015050897374749}
+>>>Epoch[107] trining batch:350/391 {'loss': 0.008191630244255066}
+Epoch[107/199] ETA:65.40min(0.71min/epoch) {'training_acc': 0.9987800121307373, 'epoch': None, 'step': None}
+>>>Epoch[108] trining batch:0/391 {'loss': 0.004192584194242954}
+>>>Epoch[108] trining batch:50/391 {'loss': 0.0066331373527646065}
+>>>Epoch[108] trining batch:100/391 {'loss': 0.0008232126710936427}
+>>>Epoch[108] trining batch:150/391 {'loss': 0.0009311292669735849}
+>>>Epoch[108] trining batch:200/391 {'loss': 0.000571573618799448}
+>>>Epoch[108] trining batch:250/391 {'loss': 0.0007402407936751842}
+>>>Epoch[108] trining batch:300/391 {'loss': 0.0038693719543516636}
+>>>Epoch[108] trining batch:350/391 {'loss': 0.003980259411036968}
+Epoch[108/199] ETA:64.72min(0.71min/epoch) {'training_acc': 0.9988199472427368, 'epoch': None, 'step': None}
+>>>Epoch[109] trining batch:0/391 {'loss': 0.001531597226858139}
+>>>Epoch[109] trining batch:50/391 {'loss': 0.008307580836117268}
+>>>Epoch[109] trining batch:100/391 {'loss': 0.0006868949858471751}
+>>>Epoch[109] trining batch:150/391 {'loss': 0.013130868785083294}
+>>>Epoch[109] trining batch:200/391 {'loss': 0.006402852479368448}
+>>>Epoch[109] trining batch:250/391 {'loss': 0.0029533212073147297}
+>>>Epoch[109] trining batch:300/391 {'loss': 0.0021209779661148787}
+>>>Epoch[109] trining batch:350/391 {'loss': 0.000909938185941428}
+Epoch[109/199] ETA:64.76min(0.72min/epoch) {'training_acc': 0.9988399744033813, 'epoch': None, 'step': None}
+>>>Epoch[110] trining batch:0/391 {'loss': 0.0013988470891490579}
+>>>Epoch[110] trining batch:50/391 {'loss': 0.0018634670414030552}
+>>>Epoch[110] trining batch:100/391 {'loss': 0.001225834246724844}
+>>>Epoch[110] trining batch:150/391 {'loss': 0.007459726184606552}
+>>>Epoch[110] trining batch:200/391 {'loss': 0.0009842009749263525}
+>>>Epoch[110] trining batch:250/391 {'loss': 0.001293020904995501}
+>>>Epoch[110] trining batch:300/391 {'loss': 0.0012306193821132183}
+>>>Epoch[110] trining batch:350/391 {'loss': 0.0010574584593996406}
+Epoch[110/199] ETA:63.51min(0.71min/epoch) {'training_acc': 0.9991000294685364, 'epoch': None, 'step': None}
+>>>Epoch[111] trining batch:0/391 {'loss': 0.008201466873288155}
+>>>Epoch[111] trining batch:50/391 {'loss': 0.0019374587573111057}
+>>>Epoch[111] trining batch:100/391 {'loss': 0.006176709197461605}
+>>>Epoch[111] trining batch:150/391 {'loss': 0.01604197360575199}
+>>>Epoch[111] trining batch:200/391 {'loss': 0.003483792766928673}
+>>>Epoch[111] trining batch:250/391 {'loss': 0.0018021456198766828}
+>>>Epoch[111] trining batch:300/391 {'loss': 0.004028112627565861}
+>>>Epoch[111] trining batch:350/391 {'loss': 0.003722884226590395}
+Epoch[111/199] ETA:63.09min(0.72min/epoch) {'training_acc': 0.9991199970245361, 'epoch': None, 'step': None}
+>>>Epoch[112] trining batch:0/391 {'loss': 0.005264651495963335}
+>>>Epoch[112] trining batch:50/391 {'loss': 0.0023376892786473036}
+>>>Epoch[112] trining batch:100/391 {'loss': 0.0011405299883335829}
+>>>Epoch[112] trining batch:150/391 {'loss': 0.0009328665910288692}
+>>>Epoch[112] trining batch:200/391 {'loss': 0.0024318979121744633}
+>>>Epoch[112] trining batch:250/391 {'loss': 0.004339560400694609}
+>>>Epoch[112] trining batch:300/391 {'loss': 0.00045085290912538767}
+>>>Epoch[112] trining batch:350/391 {'loss': 0.001439940882846713}
+Epoch[112/199] ETA:61.69min(0.71min/epoch) {'training_acc': 0.9992000460624695, 'epoch': None, 'step': None}
+>>>Epoch[113] trining batch:0/391 {'loss': 0.0007429977413266897}
+>>>Epoch[113] trining batch:50/391 {'loss': 0.006989241577684879}
+>>>Epoch[113] trining batch:100/391 {'loss': 0.0012909596553072333}
+>>>Epoch[113] trining batch:150/391 {'loss': 0.00935507845133543}
+>>>Epoch[113] trining batch:200/391 {'loss': 0.0017973538488149643}
+>>>Epoch[113] trining batch:250/391 {'loss': 0.0014648513169959188}
+>>>Epoch[113] trining batch:300/391 {'loss': 0.002453442895784974}
+>>>Epoch[113] trining batch:350/391 {'loss': 0.0027296266052871943}
+Epoch[113/199] ETA:61.03min(0.71min/epoch) {'training_acc': 0.999180018901825, 'epoch': None, 'step': None}
+>>>Epoch[114] trining batch:0/391 {'loss': 0.0004980945377610624}
+>>>Epoch[114] trining batch:50/391 {'loss': 0.0005579359130933881}
+>>>Epoch[114] trining batch:100/391 {'loss': 0.0010487952968105674}
+>>>Epoch[114] trining batch:150/391 {'loss': 0.0005944028962403536}
+>>>Epoch[114] trining batch:200/391 {'loss': 0.01012782845646143}
+>>>Epoch[114] trining batch:250/391 {'loss': 0.0007209982722997665}
+>>>Epoch[114] trining batch:300/391 {'loss': 0.0010347451316192746}
+>>>Epoch[114] trining batch:350/391 {'loss': 0.0038310231175273657}
+Epoch[114/199] ETA:61.50min(0.72min/epoch) {'training_acc': 0.9992600083351135, 'epoch': None, 'step': None}
+>>>Epoch[115] trining batch:0/391 {'loss': 0.002088785171508789}
+>>>Epoch[115] trining batch:50/391 {'loss': 0.0041128783486783504}
+>>>Epoch[115] trining batch:100/391 {'loss': 0.001348500489257276}
+>>>Epoch[115] trining batch:150/391 {'loss': 0.00026575932861305773}
+>>>Epoch[115] trining batch:200/391 {'loss': 0.0006143704522401094}
+>>>Epoch[115] trining batch:250/391 {'loss': 0.0059347692877054214}
+>>>Epoch[115] trining batch:300/391 {'loss': 0.002859685570001602}
+>>>Epoch[115] trining batch:350/391 {'loss': 0.000574318808503449}
+Epoch[115/199] ETA:59.04min(0.70min/epoch) {'training_acc': 0.9992600083351135, 'epoch': None, 'step': None}
+>>>Epoch[116] trining batch:0/391 {'loss': 0.003409257624298334}
+>>>Epoch[116] trining batch:50/391 {'loss': 0.002635003998875618}
+>>>Epoch[116] trining batch:100/391 {'loss': 0.003537007374688983}
+>>>Epoch[116] trining batch:150/391 {'loss': 0.0006846723845228553}
+>>>Epoch[116] trining batch:200/391 {'loss': 0.001691468060016632}
+>>>Epoch[116] trining batch:250/391 {'loss': 0.004768806509673595}
+>>>Epoch[116] trining batch:300/391 {'loss': 0.0007758987485431135}
+>>>Epoch[116] trining batch:350/391 {'loss': 0.00040598458144813776}
+Epoch[116/199] ETA:59.09min(0.71min/epoch) {'training_acc': 0.9993799924850464, 'epoch': None, 'step': None}
+>>>Epoch[117] trining batch:0/391 {'loss': 0.0006731130997650325}
+>>>Epoch[117] trining batch:50/391 {'loss': 0.003974922467023134}
+>>>Epoch[117] trining batch:100/391 {'loss': 0.0017057597870007157}
+>>>Epoch[117] trining batch:150/391 {'loss': 0.000946399406529963}
+>>>Epoch[117] trining batch:200/391 {'loss': 0.0013275586534291506}
+>>>Epoch[117] trining batch:250/391 {'loss': 0.0003270601446274668}
+>>>Epoch[117] trining batch:300/391 {'loss': 0.00123655516654253}
+>>>Epoch[117] trining batch:350/391 {'loss': 0.0003963376802857965}
+Epoch[117/199] ETA:59.06min(0.72min/epoch) {'training_acc': 0.9995399713516235, 'epoch': None, 'step': None}
+>>>Epoch[118] trining batch:0/391 {'loss': 0.0017452063038945198}
+>>>Epoch[118] trining batch:50/391 {'loss': 0.00033769948640838265}
+>>>Epoch[118] trining batch:100/391 {'loss': 0.001491539180278778}
+>>>Epoch[118] trining batch:150/391 {'loss': 0.0008872044854797423}
+>>>Epoch[118] trining batch:200/391 {'loss': 0.0008788048289716244}
+>>>Epoch[118] trining batch:250/391 {'loss': 0.0009276763303205371}
+>>>Epoch[118] trining batch:300/391 {'loss': 0.0029935368802398443}
+>>>Epoch[118] trining batch:350/391 {'loss': 0.0006658778875134885}
+Epoch[118/199] ETA:57.87min(0.71min/epoch) {'training_acc': 0.9995399713516235, 'epoch': None, 'step': None}
+>>>Epoch[119] trining batch:0/391 {'loss': 0.0004981873207725585}
+>>>Epoch[119] trining batch:50/391 {'loss': 0.0004861410416197032}
+>>>Epoch[119] trining batch:100/391 {'loss': 0.0001412150013493374}
+>>>Epoch[119] trining batch:150/391 {'loss': 0.006009621545672417}
+>>>Epoch[119] trining batch:200/391 {'loss': 0.008078749291598797}
+>>>Epoch[119] trining batch:250/391 {'loss': 0.0008316298481076956}
+>>>Epoch[119] trining batch:300/391 {'loss': 0.0006338663515634835}
+>>>Epoch[119] trining batch:350/391 {'loss': 0.0011833957396447659}
+Epoch[119/199] ETA:56.96min(0.71min/epoch) {'training_acc': 0.9996000528335571, 'epoch': None, 'step': None}
+>>>Epoch[120] trining batch:0/391 {'loss': 0.0016523791709914804}
+>>>Epoch[120] trining batch:50/391 {'loss': 0.001375993830151856}
+>>>Epoch[120] trining batch:100/391 {'loss': 0.0003313435590825975}
+>>>Epoch[120] trining batch:150/391 {'loss': 0.00790709350258112}
+>>>Epoch[120] trining batch:200/391 {'loss': 0.0005800647777505219}
+>>>Epoch[120] trining batch:250/391 {'loss': 0.0019288754556328058}
+>>>Epoch[120] trining batch:300/391 {'loss': 0.0018274376634508371}
+>>>Epoch[120] trining batch:350/391 {'loss': 0.0002649374946486205}
+Epoch[120/199] ETA:55.91min(0.71min/epoch) {'training_acc': 0.9996399879455566, 'epoch': None, 'step': None}
+>>>Epoch[121] trining batch:0/391 {'loss': 0.0006178945186547935}
+>>>Epoch[121] trining batch:50/391 {'loss': 0.00040771294152364135}
+>>>Epoch[121] trining batch:100/391 {'loss': 0.0008318455656990409}
+>>>Epoch[121] trining batch:150/391 {'loss': 0.0011628462234511971}
+>>>Epoch[121] trining batch:200/391 {'loss': 0.000624704291112721}
+>>>Epoch[121] trining batch:250/391 {'loss': 0.0005004690610803664}
+>>>Epoch[121] trining batch:300/391 {'loss': 0.0024136733263731003}
+>>>Epoch[121] trining batch:350/391 {'loss': 0.0030863990541547537}
+Epoch[121/199] ETA:55.69min(0.71min/epoch) {'training_acc': 0.9992400407791138, 'epoch': None, 'step': None}
+>>>Epoch[122] trining batch:0/391 {'loss': 0.0010335148544982076}
+>>>Epoch[122] trining batch:50/391 {'loss': 0.00032096344511955976}
+>>>Epoch[122] trining batch:100/391 {'loss': 0.0011863484978675842}
+>>>Epoch[122] trining batch:150/391 {'loss': 0.0002459461393300444}
+>>>Epoch[122] trining batch:200/391 {'loss': 0.0023506286088377237}
+>>>Epoch[122] trining batch:250/391 {'loss': 0.00021535821724683046}
+>>>Epoch[122] trining batch:300/391 {'loss': 0.0037549270782619715}
+>>>Epoch[122] trining batch:350/391 {'loss': 0.00041911593871191144}
+Epoch[122/199] ETA:55.03min(0.71min/epoch) {'training_acc': 0.9996600151062012, 'epoch': None, 'step': None}
+>>>Epoch[123] trining batch:0/391 {'loss': 0.0004743860336020589}
+>>>Epoch[123] trining batch:50/391 {'loss': 0.0060447342693805695}
+>>>Epoch[123] trining batch:100/391 {'loss': 0.0054608858190476894}
+>>>Epoch[123] trining batch:150/391 {'loss': 0.0017163234297186136}
+>>>Epoch[123] trining batch:200/391 {'loss': 0.006446325220167637}
+>>>Epoch[123] trining batch:250/391 {'loss': 0.0006796782836318016}
+>>>Epoch[123] trining batch:300/391 {'loss': 0.0008402898092754185}
+>>>Epoch[123] trining batch:350/391 {'loss': 0.001160900224931538}
+Epoch[123/199] ETA:54.24min(0.71min/epoch) {'training_acc': 0.999519944190979, 'epoch': None, 'step': None}
+>>>Epoch[124] trining batch:0/391 {'loss': 0.005758095998317003}
+>>>Epoch[124] trining batch:50/391 {'loss': 0.005129256285727024}
+>>>Epoch[124] trining batch:100/391 {'loss': 0.0014911050675436854}
+>>>Epoch[124] trining batch:150/391 {'loss': 0.0022633816115558147}
+>>>Epoch[124] trining batch:200/391 {'loss': 0.0009542179759591818}
+>>>Epoch[124] trining batch:250/391 {'loss': 0.0009565202635712922}
+>>>Epoch[124] trining batch:300/391 {'loss': 0.002737369854003191}
+>>>Epoch[124] trining batch:350/391 {'loss': 0.0026863892562687397}
+Epoch[124/199] ETA:53.50min(0.71min/epoch) {'training_acc': 0.9996799230575562, 'epoch': None, 'step': None}
+>>>Epoch[125] trining batch:0/391 {'loss': 0.0007769315270707011}
+>>>Epoch[125] trining batch:50/391 {'loss': 0.00036509320489130914}
+>>>Epoch[125] trining batch:100/391 {'loss': 0.0011725747026503086}
+>>>Epoch[125] trining batch:150/391 {'loss': 0.00024879880947992206}
+>>>Epoch[125] trining batch:200/391 {'loss': 0.00027306564152240753}
+>>>Epoch[125] trining batch:250/391 {'loss': 0.0001801683974917978}
+>>>Epoch[125] trining batch:300/391 {'loss': 0.0012838089605793357}
+>>>Epoch[125] trining batch:350/391 {'loss': 0.0008163028978742659}
+Epoch[125/199] ETA:52.58min(0.71min/epoch) {'training_acc': 0.9994800090789795, 'epoch': None, 'step': None}
+>>>Epoch[126] trining batch:0/391 {'loss': 0.0005748032708652318}
+>>>Epoch[126] trining batch:50/391 {'loss': 0.03918014094233513}
+>>>Epoch[126] trining batch:100/391 {'loss': 0.0006051055388525128}
+>>>Epoch[126] trining batch:150/391 {'loss': 0.00048663633060641587}
+>>>Epoch[126] trining batch:200/391 {'loss': 0.0015531908720731735}
+>>>Epoch[126] trining batch:250/391 {'loss': 0.0007773867109790444}
+>>>Epoch[126] trining batch:300/391 {'loss': 0.0010569487931206822}
+>>>Epoch[126] trining batch:350/391 {'loss': 0.0003977715387009084}
+Epoch[126/199] ETA:52.07min(0.71min/epoch) {'training_acc': 0.9998000264167786, 'epoch': None, 'step': None}
+>>>Epoch[127] trining batch:0/391 {'loss': 0.0009304261184297502}
+>>>Epoch[127] trining batch:50/391 {'loss': 0.0002837027714122087}
+>>>Epoch[127] trining batch:100/391 {'loss': 0.0005785823450423777}
+>>>Epoch[127] trining batch:150/391 {'loss': 0.0006030679796822369}
+>>>Epoch[127] trining batch:200/391 {'loss': 0.0005959899863228202}
+>>>Epoch[127] trining batch:250/391 {'loss': 0.0002371248119743541}
+>>>Epoch[127] trining batch:300/391 {'loss': 0.00040058218291960657}
+>>>Epoch[127] trining batch:350/391 {'loss': 0.002902584383264184}
+Epoch[127/199] ETA:51.68min(0.72min/epoch) {'training_acc': 0.9996800422668457, 'epoch': None, 'step': None}
+>>>Epoch[128] trining batch:0/391 {'loss': 0.0004244190640747547}
+>>>Epoch[128] trining batch:50/391 {'loss': 0.0012532139662653208}
+>>>Epoch[128] trining batch:100/391 {'loss': 0.0001965170813491568}
+>>>Epoch[128] trining batch:150/391 {'loss': 0.0001947338314494118}
+>>>Epoch[128] trining batch:200/391 {'loss': 0.0002007627917919308}
+>>>Epoch[128] trining batch:250/391 {'loss': 0.00030706945108249784}
+>>>Epoch[128] trining batch:300/391 {'loss': 0.00019963046361226588}
+>>>Epoch[128] trining batch:350/391 {'loss': 0.001414605649188161}
+Epoch[128/199] ETA:50.45min(0.71min/epoch) {'training_acc': 0.9997999668121338, 'epoch': None, 'step': None}
+>>>Epoch[129] trining batch:0/391 {'loss': 0.0004351639363449067}
+>>>Epoch[129] trining batch:50/391 {'loss': 0.00036472745705395937}
+>>>Epoch[129] trining batch:100/391 {'loss': 0.00026602428988553584}
+>>>Epoch[129] trining batch:150/391 {'loss': 0.0012077817227691412}
+>>>Epoch[129] trining batch:200/391 {'loss': 0.00033451447961851954}
+>>>Epoch[129] trining batch:250/391 {'loss': 0.0009667235426604748}
+>>>Epoch[129] trining batch:300/391 {'loss': 0.0007559735677205026}
+>>>Epoch[129] trining batch:350/391 {'loss': 0.004223057068884373}
+Epoch[129/199] ETA:50.84min(0.73min/epoch) {'training_acc': 0.9998400211334229, 'epoch': None, 'step': None}
+>>>Epoch[130] trining batch:0/391 {'loss': 0.00023379409685730934}
+>>>Epoch[130] trining batch:50/391 {'loss': 0.0005691581172868609}
+>>>Epoch[130] trining batch:100/391 {'loss': 0.000157804592163302}
+>>>Epoch[130] trining batch:150/391 {'loss': 0.00082320038927719}
+>>>Epoch[130] trining batch:200/391 {'loss': 0.00048792859888635576}
+>>>Epoch[130] trining batch:250/391 {'loss': 0.0004595764330588281}
+>>>Epoch[130] trining batch:300/391 {'loss': 0.009487058036029339}
+>>>Epoch[130] trining batch:350/391 {'loss': 0.0007736413972452283}
+Epoch[130/199] ETA:48.86min(0.71min/epoch) {'training_acc': 0.9996600151062012, 'epoch': None, 'step': None}
+>>>Epoch[131] trining batch:0/391 {'loss': 0.0014036676147952676}
+>>>Epoch[131] trining batch:50/391 {'loss': 0.0027902291622012854}
+>>>Epoch[131] trining batch:100/391 {'loss': 0.007830098271369934}
+>>>Epoch[131] trining batch:150/391 {'loss': 0.0004523379320744425}
+>>>Epoch[131] trining batch:200/391 {'loss': 0.004304888192564249}
+>>>Epoch[131] trining batch:250/391 {'loss': 0.0024892622604966164}
+>>>Epoch[131] trining batch:300/391 {'loss': 0.0002536665415391326}
+>>>Epoch[131] trining batch:350/391 {'loss': 0.00017422880046069622}
+Epoch[131/199] ETA:48.47min(0.71min/epoch) {'training_acc': 0.9996399879455566, 'epoch': None, 'step': None}
+>>>Epoch[132] trining batch:0/391 {'loss': 0.0003710700839292258}
+>>>Epoch[132] trining batch:50/391 {'loss': 0.002173961838707328}
+>>>Epoch[132] trining batch:100/391 {'loss': 0.0018555383430793881}
+>>>Epoch[132] trining batch:150/391 {'loss': 0.00024162817862816155}
+>>>Epoch[132] trining batch:200/391 {'loss': 0.0014377196785062551}
+>>>Epoch[132] trining batch:250/391 {'loss': 0.002589522860944271}
+>>>Epoch[132] trining batch:300/391 {'loss': 0.002841440960764885}
+>>>Epoch[132] trining batch:350/391 {'loss': 0.0016857725568115711}
+Epoch[132/199] ETA:48.73min(0.73min/epoch) {'training_acc': 0.9996600151062012, 'epoch': None, 'step': None}
+>>>Epoch[133] trining batch:0/391 {'loss': 0.0016466501401737332}
+>>>Epoch[133] trining batch:50/391 {'loss': 0.0013080838834866881}
+>>>Epoch[133] trining batch:100/391 {'loss': 0.000436545058619231}
+>>>Epoch[133] trining batch:150/391 {'loss': 0.0004977031494490802}
+>>>Epoch[133] trining batch:200/391 {'loss': 0.00031107786344364285}
+>>>Epoch[133] trining batch:250/391 {'loss': 0.0008377007325179875}
+>>>Epoch[133] trining batch:300/391 {'loss': 0.0002219762245658785}
+>>>Epoch[133] trining batch:350/391 {'loss': 0.0005282451747916639}
+Epoch[133/199] ETA:47.15min(0.71min/epoch) {'training_acc': 0.9998199939727783, 'epoch': None, 'step': None}
+>>>Epoch[134] trining batch:0/391 {'loss': 0.0005842775572091341}
+>>>Epoch[134] trining batch:50/391 {'loss': 0.00016289805353153497}
+>>>Epoch[134] trining batch:100/391 {'loss': 0.0005380080547183752}
+>>>Epoch[134] trining batch:150/391 {'loss': 0.0011355874594300985}
+>>>Epoch[134] trining batch:200/391 {'loss': 0.00024052092339843512}
+>>>Epoch[134] trining batch:250/391 {'loss': 0.0003517207514960319}
+>>>Epoch[134] trining batch:300/391 {'loss': 0.0018122035544365644}
+>>>Epoch[134] trining batch:350/391 {'loss': 0.0002259366010548547}
+Epoch[134/199] ETA:46.35min(0.71min/epoch) {'training_acc': 0.9996600151062012, 'epoch': None, 'step': None}
+>>>Epoch[135] trining batch:0/391 {'loss': 0.000687433232087642}
+>>>Epoch[135] trining batch:50/391 {'loss': 0.001846170169301331}
+>>>Epoch[135] trining batch:100/391 {'loss': 0.0012907251948490739}
+>>>Epoch[135] trining batch:150/391 {'loss': 0.0007735458784736693}
+>>>Epoch[135] trining batch:200/391 {'loss': 0.0007102542440406978}
+>>>Epoch[135] trining batch:250/391 {'loss': 0.0007260411512106657}
+>>>Epoch[135] trining batch:300/391 {'loss': 0.002079959027469158}
+>>>Epoch[135] trining batch:350/391 {'loss': 0.0005514197400771081}
+Epoch[135/199] ETA:45.69min(0.71min/epoch) {'training_acc': 0.9996999502182007, 'epoch': None, 'step': None}
+>>>Epoch[136] trining batch:0/391 {'loss': 0.0002972499351017177}
+>>>Epoch[136] trining batch:50/391 {'loss': 0.00024709064746275544}
+>>>Epoch[136] trining batch:100/391 {'loss': 0.0015910547226667404}
+>>>Epoch[136] trining batch:150/391 {'loss': 0.0004301072331145406}
+>>>Epoch[136] trining batch:200/391 {'loss': 0.000408497842727229}
+>>>Epoch[136] trining batch:250/391 {'loss': 0.004278278909623623}
+>>>Epoch[136] trining batch:300/391 {'loss': 0.000730072264559567}
+>>>Epoch[136] trining batch:350/391 {'loss': 0.0010250628693029284}
+Epoch[136/199] ETA:45.02min(0.71min/epoch) {'training_acc': 0.9997199773788452, 'epoch': None, 'step': None}
+>>>Epoch[137] trining batch:0/391 {'loss': 0.00047921985969878733}
+>>>Epoch[137] trining batch:50/391 {'loss': 0.0005948314210399985}
+>>>Epoch[137] trining batch:100/391 {'loss': 0.00019260981935076416}
+>>>Epoch[137] trining batch:150/391 {'loss': 0.00019735866226255894}
+>>>Epoch[137] trining batch:200/391 {'loss': 0.0014518556417897344}
+>>>Epoch[137] trining batch:250/391 {'loss': 0.0008318797335959971}
+>>>Epoch[137] trining batch:300/391 {'loss': 0.0006358617101795971}
+>>>Epoch[137] trining batch:350/391 {'loss': 0.0003923281910829246}
+Epoch[137/199] ETA:44.63min(0.72min/epoch) {'training_acc': 0.9997599720954895, 'epoch': None, 'step': None}
+>>>Epoch[138] trining batch:0/391 {'loss': 0.0006931886891834438}
+>>>Epoch[138] trining batch:50/391 {'loss': 0.0002444499114062637}
+>>>Epoch[138] trining batch:100/391 {'loss': 0.0010550266597419977}
+>>>Epoch[138] trining batch:150/391 {'loss': 0.0018049299251288176}
+>>>Epoch[138] trining batch:200/391 {'loss': 0.0006019852589815855}
+>>>Epoch[138] trining batch:250/391 {'loss': 0.0003426285111345351}
+>>>Epoch[138] trining batch:300/391 {'loss': 0.00020370158017612994}
+>>>Epoch[138] trining batch:350/391 {'loss': 0.0014290327671915293}
+Epoch[138/199] ETA:43.67min(0.72min/epoch) {'training_acc': 0.9999200105667114, 'epoch': None, 'step': None}
+>>>Epoch[139] trining batch:0/391 {'loss': 0.00019509342382661998}
+>>>Epoch[139] trining batch:50/391 {'loss': 0.000972371781244874}
+>>>Epoch[139] trining batch:100/391 {'loss': 0.000536648731213063}
+>>>Epoch[139] trining batch:150/391 {'loss': 0.00035558189847506583}
+>>>Epoch[139] trining batch:200/391 {'loss': 0.000488185411086306}
+>>>Epoch[139] trining batch:250/391 {'loss': 0.00027798907831311226}
+>>>Epoch[139] trining batch:300/391 {'loss': 0.0031311220955103636}
+>>>Epoch[139] trining batch:350/391 {'loss': 0.0036653412971645594}
+Epoch[139/199] ETA:43.09min(0.72min/epoch) {'training_acc': 0.9997600317001343, 'epoch': None, 'step': None}
+>>>Epoch[140] trining batch:0/391 {'loss': 0.0016551690641790628}
+>>>Epoch[140] trining batch:50/391 {'loss': 0.0024034706875681877}
+>>>Epoch[140] trining batch:100/391 {'loss': 0.00018330133752897382}
+>>>Epoch[140] trining batch:150/391 {'loss': 0.0002609702351037413}
+>>>Epoch[140] trining batch:200/391 {'loss': 0.001367742195725441}
+>>>Epoch[140] trining batch:250/391 {'loss': 0.0005172322271391749}
+>>>Epoch[140] trining batch:300/391 {'loss': 0.0003180790226906538}
+>>>Epoch[140] trining batch:350/391 {'loss': 0.0007369554368779063}
+Epoch[140/199] ETA:42.15min(0.71min/epoch) {'training_acc': 0.9998200535774231, 'epoch': None, 'step': None}
+>>>Epoch[141] trining batch:0/391 {'loss': 0.0010768348583951592}
+>>>Epoch[141] trining batch:50/391 {'loss': 0.0008274901192635298}
+>>>Epoch[141] trining batch:100/391 {'loss': 0.0031227029394358397}
+>>>Epoch[141] trining batch:150/391 {'loss': 0.0011009818408638239}
+>>>Epoch[141] trining batch:200/391 {'loss': 0.0002968375920318067}
+>>>Epoch[141] trining batch:250/391 {'loss': 0.00047024208470247686}
+>>>Epoch[141] trining batch:300/391 {'loss': 0.0038250195793807507}
+>>>Epoch[141] trining batch:350/391 {'loss': 0.00012730022717732936}
+Epoch[141/199] ETA:41.26min(0.71min/epoch) {'training_acc': 0.9997199773788452, 'epoch': None, 'step': None}
+>>>Epoch[142] trining batch:0/391 {'loss': 0.00022760719002690166}
+>>>Epoch[142] trining batch:50/391 {'loss': 0.0009670738945715129}
+>>>Epoch[142] trining batch:100/391 {'loss': 0.0006116435397416353}
+>>>Epoch[142] trining batch:150/391 {'loss': 0.00020293088164180517}
+>>>Epoch[142] trining batch:200/391 {'loss': 0.002284907503053546}
+>>>Epoch[142] trining batch:250/391 {'loss': 0.0017383384983986616}
+>>>Epoch[142] trining batch:300/391 {'loss': 0.0009190496639348567}
+>>>Epoch[142] trining batch:350/391 {'loss': 0.0012787692248821259}
+Epoch[142/199] ETA:40.54min(0.71min/epoch) {'training_acc': 0.9998199939727783, 'epoch': None, 'step': None}
+>>>Epoch[143] trining batch:0/391 {'loss': 0.0004487501864787191}
+>>>Epoch[143] trining batch:50/391 {'loss': 0.0006915522390045226}
+>>>Epoch[143] trining batch:100/391 {'loss': 0.0005158717976883054}
+>>>Epoch[143] trining batch:150/391 {'loss': 0.000879812054336071}
+>>>Epoch[143] trining batch:200/391 {'loss': 0.002925323322415352}
+>>>Epoch[143] trining batch:250/391 {'loss': 0.000729115738067776}
+>>>Epoch[143] trining batch:300/391 {'loss': 0.00017774489242583513}
+>>>Epoch[143] trining batch:350/391 {'loss': 0.00026947527658194304}
+Epoch[143/199] ETA:39.62min(0.71min/epoch) {'training_acc': 0.9998400211334229, 'epoch': None, 'step': None}
+>>>Epoch[144] trining batch:0/391 {'loss': 0.0013746703043580055}
+>>>Epoch[144] trining batch:50/391 {'loss': 0.005472174845635891}
+>>>Epoch[144] trining batch:100/391 {'loss': 0.0010042228968814015}
+>>>Epoch[144] trining batch:150/391 {'loss': 0.0005002568359486759}
+>>>Epoch[144] trining batch:200/391 {'loss': 0.0013466377276927233}
+>>>Epoch[144] trining batch:250/391 {'loss': 0.00036634094431065023}
+>>>Epoch[144] trining batch:300/391 {'loss': 0.00024426664458587766}
+>>>Epoch[144] trining batch:350/391 {'loss': 0.0003576160524971783}
+Epoch[144/199] ETA:38.96min(0.71min/epoch) {'training_acc': 0.9998600482940674, 'epoch': None, 'step': None}
+>>>Epoch[145] trining batch:0/391 {'loss': 0.0006210306310094893}
+>>>Epoch[145] trining batch:50/391 {'loss': 0.00021262552763801068}
+>>>Epoch[145] trining batch:100/391 {'loss': 0.0002648030931595713}
+>>>Epoch[145] trining batch:150/391 {'loss': 0.001256587216630578}
+>>>Epoch[145] trining batch:200/391 {'loss': 0.0002809426514431834}
+>>>Epoch[145] trining batch:250/391 {'loss': 0.0014593222877010703}
+>>>Epoch[145] trining batch:300/391 {'loss': 0.0006239478825591505}
+>>>Epoch[145] trining batch:350/391 {'loss': 0.00019436846196185797}
+Epoch[145/199] ETA:38.24min(0.71min/epoch) {'training_acc': 0.9997999668121338, 'epoch': None, 'step': None}
+>>>Epoch[146] trining batch:0/391 {'loss': 0.0025187511928379536}
+>>>Epoch[146] trining batch:50/391 {'loss': 0.0011013272451236844}
+>>>Epoch[146] trining batch:100/391 {'loss': 0.0006096659344621003}
+>>>Epoch[146] trining batch:150/391 {'loss': 0.0017433338798582554}
+>>>Epoch[146] trining batch:200/391 {'loss': 0.0012776905205100775}
+>>>Epoch[146] trining batch:250/391 {'loss': 0.0003155345330014825}
+>>>Epoch[146] trining batch:300/391 {'loss': 0.0022403928451240063}
+>>>Epoch[146] trining batch:350/391 {'loss': 0.009434043429791927}
+Epoch[146/199] ETA:37.95min(0.72min/epoch) {'training_acc': 0.9998399615287781, 'epoch': None, 'step': None}
+>>>Epoch[147] trining batch:0/391 {'loss': 0.0006164651131257415}
+>>>Epoch[147] trining batch:50/391 {'loss': 0.001092587597668171}
+>>>Epoch[147] trining batch:100/391 {'loss': 0.0002283237990923226}
+>>>Epoch[147] trining batch:150/391 {'loss': 0.0006016141851432621}
+>>>Epoch[147] trining batch:200/391 {'loss': 0.0005027113948017359}
+>>>Epoch[147] trining batch:250/391 {'loss': 0.001602395554073155}
+>>>Epoch[147] trining batch:300/391 {'loss': 0.00029687798814848065}
+>>>Epoch[147] trining batch:350/391 {'loss': 0.0003524152853060514}
+Epoch[147/199] ETA:36.64min(0.70min/epoch) {'training_acc': 0.9999200105667114, 'epoch': None, 'step': None}
+>>>Epoch[148] trining batch:0/391 {'loss': 0.00034693925408646464}
+>>>Epoch[148] trining batch:50/391 {'loss': 0.0013674604706466198}
+>>>Epoch[148] trining batch:100/391 {'loss': 0.008539892733097076}
+>>>Epoch[148] trining batch:150/391 {'loss': 0.0069596292451024055}
+>>>Epoch[148] trining batch:200/391 {'loss': 0.0015999077586457133}
+>>>Epoch[148] trining batch:250/391 {'loss': 0.00024229222617577761}
+>>>Epoch[148] trining batch:300/391 {'loss': 0.0012934950646013021}
+>>>Epoch[148] trining batch:350/391 {'loss': 0.00037224905099719763}
+Epoch[148/199] ETA:36.04min(0.71min/epoch) {'training_acc': 0.99972003698349, 'epoch': None, 'step': None}
+>>>Epoch[149] trining batch:0/391 {'loss': 0.0003108983510173857}
+>>>Epoch[149] trining batch:50/391 {'loss': 0.000582782318815589}
+>>>Epoch[149] trining batch:100/391 {'loss': 0.00021740941156167537}
+>>>Epoch[149] trining batch:150/391 {'loss': 0.0014382636873051524}
+>>>Epoch[149] trining batch:200/391 {'loss': 0.0002571786171756685}
+>>>Epoch[149] trining batch:250/391 {'loss': 0.00139071315061301}
+>>>Epoch[149] trining batch:300/391 {'loss': 0.0003610125568229705}
+>>>Epoch[149] trining batch:350/391 {'loss': 0.0007764317560940981}
+Epoch[149/199] ETA:35.58min(0.71min/epoch) {'training_acc': 0.9998400211334229, 'epoch': None, 'step': None}
+>>>Epoch[150] trining batch:0/391 {'loss': 0.00025253495550714433}
+>>>Epoch[150] trining batch:50/391 {'loss': 0.0011739004403352737}
+>>>Epoch[150] trining batch:100/391 {'loss': 0.00015076588897500187}
+>>>Epoch[150] trining batch:150/391 {'loss': 0.0005063442513346672}
+>>>Epoch[150] trining batch:200/391 {'loss': 0.0010868855752050877}
+>>>Epoch[150] trining batch:250/391 {'loss': 0.0012671503936871886}
+>>>Epoch[150] trining batch:300/391 {'loss': 0.001736752106808126}
+>>>Epoch[150] trining batch:350/391 {'loss': 0.00021079405269119889}
+Epoch[150/199] ETA:35.82min(0.73min/epoch) {'training_acc': 0.9998000264167786, 'epoch': None, 'step': None}
+>>>Epoch[151] trining batch:0/391 {'loss': 0.0003991168923676014}
+>>>Epoch[151] trining batch:50/391 {'loss': 0.0003151675045955926}
+>>>Epoch[151] trining batch:100/391 {'loss': 0.00016316962137352675}
+>>>Epoch[151] trining batch:150/391 {'loss': 0.0003319442621432245}
+>>>Epoch[151] trining batch:200/391 {'loss': 0.00025759541313163936}
+>>>Epoch[151] trining batch:250/391 {'loss': 8.66037662490271e-05}
+>>>Epoch[151] trining batch:300/391 {'loss': 0.0003407537587918341}
+>>>Epoch[151] trining batch:350/391 {'loss': 0.00015817390521988273}
+Epoch[151/199] ETA:34.97min(0.73min/epoch) {'training_acc': 0.9998800158500671, 'epoch': None, 'step': None}
+>>>Epoch[152] trining batch:0/391 {'loss': 0.009650146588683128}
+>>>Epoch[152] trining batch:50/391 {'loss': 0.0001253922382602468}
+>>>Epoch[152] trining batch:100/391 {'loss': 0.001188996247947216}
+>>>Epoch[152] trining batch:150/391 {'loss': 0.006233774125576019}
+>>>Epoch[152] trining batch:200/391 {'loss': 0.0004348918446339667}
+>>>Epoch[152] trining batch:250/391 {'loss': 0.0005171882803551853}
+>>>Epoch[152] trining batch:300/391 {'loss': 0.00022031323169358075}
+>>>Epoch[152] trining batch:350/391 {'loss': 0.0022351418156176805}
+Epoch[152/199] ETA:34.13min(0.73min/epoch) {'training_acc': 0.9997799396514893, 'epoch': None, 'step': None}
+>>>Epoch[153] trining batch:0/391 {'loss': 0.00025865851785056293}
+>>>Epoch[153] trining batch:50/391 {'loss': 0.00010782266326714307}
+>>>Epoch[153] trining batch:100/391 {'loss': 0.00034551520366221666}
+>>>Epoch[153] trining batch:150/391 {'loss': 0.0007852293201722205}
+>>>Epoch[153] trining batch:200/391 {'loss': 0.00012990713003091514}
+>>>Epoch[153] trining batch:250/391 {'loss': 0.0002886168076656759}
+>>>Epoch[153] trining batch:300/391 {'loss': 0.00153940764721483}
+>>>Epoch[153] trining batch:350/391 {'loss': 0.004290760029107332}
+Epoch[153/199] ETA:33.16min(0.72min/epoch) {'training_acc': 0.9998599886894226, 'epoch': None, 'step': None}
+>>>Epoch[154] trining batch:0/391 {'loss': 0.0021364830899983644}
+>>>Epoch[154] trining batch:50/391 {'loss': 0.0012634563026949763}
+>>>Epoch[154] trining batch:100/391 {'loss': 0.001233588671311736}
+>>>Epoch[154] trining batch:150/391 {'loss': 0.001222811988554895}
+>>>Epoch[154] trining batch:200/391 {'loss': 0.0020410616416484118}
+>>>Epoch[154] trining batch:250/391 {'loss': 0.00020978985412511975}
+>>>Epoch[154] trining batch:300/391 {'loss': 0.0013302385341376066}
+>>>Epoch[154] trining batch:350/391 {'loss': 0.0002300745836691931}
+Epoch[154/199] ETA:32.29min(0.72min/epoch) {'training_acc': 0.9998600482940674, 'epoch': None, 'step': None}
+>>>Epoch[155] trining batch:0/391 {'loss': 0.0004632570198737085}
+>>>Epoch[155] trining batch:50/391 {'loss': 0.0005622696480713785}
+>>>Epoch[155] trining batch:100/391 {'loss': 0.000977866118773818}
+>>>Epoch[155] trining batch:150/391 {'loss': 0.0003184242523275316}
+>>>Epoch[155] trining batch:200/391 {'loss': 0.00022223169798962772}
+>>>Epoch[155] trining batch:250/391 {'loss': 0.0007065487443469465}
+>>>Epoch[155] trining batch:300/391 {'loss': 0.00015359841927420348}
+>>>Epoch[155] trining batch:350/391 {'loss': 0.0009406362078152597}
+Epoch[155/199] ETA:32.12min(0.73min/epoch) {'training_acc': 0.9998200535774231, 'epoch': None, 'step': None}
+>>>Epoch[156] trining batch:0/391 {'loss': 0.000301138759823516}
+>>>Epoch[156] trining batch:50/391 {'loss': 0.00024448626209050417}
+>>>Epoch[156] trining batch:100/391 {'loss': 0.0002450876636430621}
+>>>Epoch[156] trining batch:150/391 {'loss': 0.0004710211942438036}
+>>>Epoch[156] trining batch:200/391 {'loss': 0.0004973645554855466}
+>>>Epoch[156] trining batch:250/391 {'loss': 0.0006814507069066167}
+>>>Epoch[156] trining batch:300/391 {'loss': 0.00030018307734280825}
+>>>Epoch[156] trining batch:350/391 {'loss': 0.0005324164521880448}
+Epoch[156/199] ETA:31.09min(0.72min/epoch) {'training_acc': 0.9998000264167786, 'epoch': None, 'step': None}
+>>>Epoch[157] trining batch:0/391 {'loss': 0.00017207265773322433}
+>>>Epoch[157] trining batch:50/391 {'loss': 0.0013055847957730293}
+>>>Epoch[157] trining batch:100/391 {'loss': 0.00015777457156218588}
+>>>Epoch[157] trining batch:150/391 {'loss': 0.0002670455432962626}
+>>>Epoch[157] trining batch:200/391 {'loss': 0.0003387990582268685}
+>>>Epoch[157] trining batch:250/391 {'loss': 0.0004020980268251151}
+>>>Epoch[157] trining batch:300/391 {'loss': 0.0004313036915846169}
+>>>Epoch[157] trining batch:350/391 {'loss': 0.0017179857240989804}
+Epoch[157/199] ETA:30.58min(0.73min/epoch) {'training_acc': 0.9998400211334229, 'epoch': None, 'step': None}
+>>>Epoch[158] trining batch:0/391 {'loss': 0.000475647539133206}
+>>>Epoch[158] trining batch:50/391 {'loss': 0.0006493639666587114}
+>>>Epoch[158] trining batch:100/391 {'loss': 0.0013502035290002823}
+>>>Epoch[158] trining batch:150/391 {'loss': 0.0002306178939761594}
+>>>Epoch[158] trining batch:200/391 {'loss': 0.0003369096084497869}
+>>>Epoch[158] trining batch:250/391 {'loss': 0.0004059510538354516}
+>>>Epoch[158] trining batch:300/391 {'loss': 0.0002525064046494663}
+>>>Epoch[158] trining batch:350/391 {'loss': 0.000695478287525475}
+Epoch[158/199] ETA:29.56min(0.72min/epoch) {'training_acc': 0.9998400211334229, 'epoch': None, 'step': None}
+>>>Epoch[159] trining batch:0/391 {'loss': 0.001581673277541995}
+>>>Epoch[159] trining batch:50/391 {'loss': 0.00019575044279918075}
+>>>Epoch[159] trining batch:100/391 {'loss': 0.0002948925248347223}
+>>>Epoch[159] trining batch:150/391 {'loss': 0.0002537151740398258}
+>>>Epoch[159] trining batch:200/391 {'loss': 0.0006447188789024949}
+>>>Epoch[159] trining batch:250/391 {'loss': 0.0033210567198693752}
+>>>Epoch[159] trining batch:300/391 {'loss': 0.0023297283332794905}
+>>>Epoch[159] trining batch:350/391 {'loss': 0.0002731486747507006}
+Epoch[159/199] ETA:28.92min(0.72min/epoch) {'training_acc': 0.9997599720954895, 'epoch': None, 'step': None}
+>>>Epoch[160] trining batch:0/391 {'loss': 0.0002991374349221587}
+>>>Epoch[160] trining batch:50/391 {'loss': 0.00016887919628061354}
+>>>Epoch[160] trining batch:100/391 {'loss': 0.00010358298459323123}
+>>>Epoch[160] trining batch:150/391 {'loss': 0.00016614655032753944}
+>>>Epoch[160] trining batch:200/391 {'loss': 0.001007166807539761}
+>>>Epoch[160] trining batch:250/391 {'loss': 0.0008536329842172563}
+>>>Epoch[160] trining batch:300/391 {'loss': 0.000789741228800267}
+>>>Epoch[160] trining batch:350/391 {'loss': 0.00016796952695585787}
+Epoch[160/199] ETA:28.30min(0.73min/epoch) {'training_acc': 0.999940037727356, 'epoch': None, 'step': None}
+>>>Epoch[161] trining batch:0/391 {'loss': 0.0010422965278849006}
+>>>Epoch[161] trining batch:50/391 {'loss': 0.00044149975292384624}
+>>>Epoch[161] trining batch:100/391 {'loss': 0.00041447373223491013}
+>>>Epoch[161] trining batch:150/391 {'loss': 0.00036561681190505624}
+>>>Epoch[161] trining batch:200/391 {'loss': 0.0001977064530365169}
+>>>Epoch[161] trining batch:250/391 {'loss': 0.0009768870659172535}
+>>>Epoch[161] trining batch:300/391 {'loss': 0.0005081103881821036}
+>>>Epoch[161] trining batch:350/391 {'loss': 0.0008651069365441799}
+Epoch[161/199] ETA:27.72min(0.73min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[162] trining batch:0/391 {'loss': 0.0007954004104249179}
+>>>Epoch[162] trining batch:50/391 {'loss': 0.0003422459994908422}
+>>>Epoch[162] trining batch:100/391 {'loss': 0.0003667808196041733}
+>>>Epoch[162] trining batch:150/391 {'loss': 0.0005402155220508575}
+>>>Epoch[162] trining batch:200/391 {'loss': 0.00025045208167284727}
+>>>Epoch[162] trining batch:250/391 {'loss': 0.00017846142873167992}
+>>>Epoch[162] trining batch:300/391 {'loss': 0.0012739452067762613}
+>>>Epoch[162] trining batch:350/391 {'loss': 0.0015725144185125828}
+Epoch[162/199] ETA:26.96min(0.73min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[163] trining batch:0/391 {'loss': 0.00020132455392740667}
+>>>Epoch[163] trining batch:50/391 {'loss': 0.00134565110784024}
+>>>Epoch[163] trining batch:100/391 {'loss': 0.00027818785747513175}
+>>>Epoch[163] trining batch:150/391 {'loss': 0.0004127044230699539}
+>>>Epoch[163] trining batch:200/391 {'loss': 0.0013885297812521458}
+>>>Epoch[163] trining batch:250/391 {'loss': 0.0006300369277596474}
+>>>Epoch[163] trining batch:300/391 {'loss': 0.0004095078620593995}
+>>>Epoch[163] trining batch:350/391 {'loss': 0.004274703096598387}
+Epoch[163/199] ETA:26.32min(0.73min/epoch) {'training_acc': 0.9999600648880005, 'epoch': None, 'step': None}
+>>>Epoch[164] trining batch:0/391 {'loss': 0.00016578898066654801}
+>>>Epoch[164] trining batch:50/391 {'loss': 0.0031655416823923588}
+>>>Epoch[164] trining batch:100/391 {'loss': 0.001304121222347021}
+>>>Epoch[164] trining batch:150/391 {'loss': 0.0001239578559761867}
+>>>Epoch[164] trining batch:200/391 {'loss': 0.0003346276644151658}
+>>>Epoch[164] trining batch:250/391 {'loss': 0.00024772805045358837}
+>>>Epoch[164] trining batch:300/391 {'loss': 0.0005164165049791336}
+>>>Epoch[164] trining batch:350/391 {'loss': 0.0003196275793015957}
+Epoch[164/199] ETA:25.51min(0.73min/epoch) {'training_acc': 0.9999000430107117, 'epoch': None, 'step': None}
+>>>Epoch[165] trining batch:0/391 {'loss': 0.00029364615329541266}
+>>>Epoch[165] trining batch:50/391 {'loss': 0.0007020960911177099}
+>>>Epoch[165] trining batch:100/391 {'loss': 0.0005825015250593424}
+>>>Epoch[165] trining batch:150/391 {'loss': 0.0006013266392983496}
+>>>Epoch[165] trining batch:200/391 {'loss': 0.0006524897180497646}
+>>>Epoch[165] trining batch:250/391 {'loss': 0.00031249961466528475}
+>>>Epoch[165] trining batch:300/391 {'loss': 0.005072706378996372}
+>>>Epoch[165] trining batch:350/391 {'loss': 0.0007100542425177991}
+Epoch[165/199] ETA:24.59min(0.72min/epoch) {'training_acc': 0.9998800158500671, 'epoch': None, 'step': None}
+>>>Epoch[166] trining batch:0/391 {'loss': 0.0002539028355386108}
+>>>Epoch[166] trining batch:50/391 {'loss': 0.0003290992754045874}
+>>>Epoch[166] trining batch:100/391 {'loss': 0.00023742827761452645}
+>>>Epoch[166] trining batch:150/391 {'loss': 0.000519883877132088}
+>>>Epoch[166] trining batch:200/391 {'loss': 0.0004870463744737208}
+>>>Epoch[166] trining batch:250/391 {'loss': 0.0002908812602981925}
+>>>Epoch[166] trining batch:300/391 {'loss': 0.00021577431471087039}
+>>>Epoch[166] trining batch:350/391 {'loss': 0.00022072352294344455}
+Epoch[166/199] ETA:23.93min(0.73min/epoch) {'training_acc': 0.9998600482940674, 'epoch': None, 'step': None}
+>>>Epoch[167] trining batch:0/391 {'loss': 0.0013317267876118422}
+>>>Epoch[167] trining batch:50/391 {'loss': 0.0001696151593932882}
+>>>Epoch[167] trining batch:100/391 {'loss': 0.0008818768546916544}
+>>>Epoch[167] trining batch:150/391 {'loss': 0.0002366499975323677}
+>>>Epoch[167] trining batch:200/391 {'loss': 0.000174662476638332}
+>>>Epoch[167] trining batch:250/391 {'loss': 0.0005207540234550834}
+>>>Epoch[167] trining batch:300/391 {'loss': 0.00041297089774161577}
+>>>Epoch[167] trining batch:350/391 {'loss': 0.000297809747280553}
+Epoch[167/199] ETA:23.25min(0.73min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[168] trining batch:0/391 {'loss': 0.000296013371553272}
+>>>Epoch[168] trining batch:50/391 {'loss': 0.0003929331141989678}
+>>>Epoch[168] trining batch:100/391 {'loss': 0.00015429921040777117}
+>>>Epoch[168] trining batch:150/391 {'loss': 0.0006348508759401739}
+>>>Epoch[168] trining batch:200/391 {'loss': 0.0028836673591285944}
+>>>Epoch[168] trining batch:250/391 {'loss': 0.0002194805274484679}
+>>>Epoch[168] trining batch:300/391 {'loss': 0.0007372965919785202}
+>>>Epoch[168] trining batch:350/391 {'loss': 0.0004889164119958878}
+Epoch[168/199] ETA:22.53min(0.73min/epoch) {'training_acc': 0.9998000264167786, 'epoch': None, 'step': None}
+>>>Epoch[169] trining batch:0/391 {'loss': 0.0022808571811765432}
+>>>Epoch[169] trining batch:50/391 {'loss': 0.0029564390424638987}
+>>>Epoch[169] trining batch:100/391 {'loss': 0.005142594687640667}
+>>>Epoch[169] trining batch:150/391 {'loss': 0.00018907402409240603}
+>>>Epoch[169] trining batch:200/391 {'loss': 0.00030166778014972806}
+>>>Epoch[169] trining batch:250/391 {'loss': 0.0002453683700878173}
+>>>Epoch[169] trining batch:300/391 {'loss': 0.0006804302101954818}
+>>>Epoch[169] trining batch:350/391 {'loss': 0.0007726149633526802}
+Epoch[169/199] ETA:21.51min(0.72min/epoch) {'training_acc': 0.9999600052833557, 'epoch': None, 'step': None}
+>>>Epoch[170] trining batch:0/391 {'loss': 0.00031718279933556914}
+>>>Epoch[170] trining batch:50/391 {'loss': 0.004167715087532997}
+>>>Epoch[170] trining batch:100/391 {'loss': 0.00037795378011651337}
+>>>Epoch[170] trining batch:150/391 {'loss': 0.004904681816697121}
+>>>Epoch[170] trining batch:200/391 {'loss': 0.0002390885492786765}
+>>>Epoch[170] trining batch:250/391 {'loss': 0.0009216740145348012}
+>>>Epoch[170] trining batch:300/391 {'loss': 0.00038009052514098585}
+>>>Epoch[170] trining batch:350/391 {'loss': 0.0001673303049756214}
+Epoch[170/199] ETA:20.86min(0.72min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[171] trining batch:0/391 {'loss': 0.00020639083231799304}
+>>>Epoch[171] trining batch:50/391 {'loss': 0.0007556633790954947}
+>>>Epoch[171] trining batch:100/391 {'loss': 0.001183446031063795}
+>>>Epoch[171] trining batch:150/391 {'loss': 0.00035917904460802674}
+>>>Epoch[171] trining batch:200/391 {'loss': 0.0007973060710355639}
+>>>Epoch[171] trining batch:250/391 {'loss': 0.0005800220533274114}
+>>>Epoch[171] trining batch:300/391 {'loss': 0.0003611867723520845}
+>>>Epoch[171] trining batch:350/391 {'loss': 0.00023163149307947606}
+Epoch[171/199] ETA:20.37min(0.73min/epoch) {'training_acc': 0.9998599886894226, 'epoch': None, 'step': None}
+>>>Epoch[172] trining batch:0/391 {'loss': 0.0007821153849363327}
+>>>Epoch[172] trining batch:50/391 {'loss': 0.003879622556269169}
+>>>Epoch[172] trining batch:100/391 {'loss': 0.0001698420091997832}
+>>>Epoch[172] trining batch:150/391 {'loss': 0.00014031633327249438}
+>>>Epoch[172] trining batch:200/391 {'loss': 0.00069256970891729}
+>>>Epoch[172] trining batch:250/391 {'loss': 0.0006612304132431746}
+>>>Epoch[172] trining batch:300/391 {'loss': 5.312275970936753e-05}
+>>>Epoch[172] trining batch:350/391 {'loss': 0.00010027264943346381}
+Epoch[172/199] ETA:19.49min(0.72min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[173] trining batch:0/391 {'loss': 0.00017837753694038838}
+>>>Epoch[173] trining batch:50/391 {'loss': 0.0014151001814752817}
+>>>Epoch[173] trining batch:100/391 {'loss': 0.0001106341733247973}
+>>>Epoch[173] trining batch:150/391 {'loss': 0.0010035441955551505}
+>>>Epoch[173] trining batch:200/391 {'loss': 0.0006688929279334843}
+>>>Epoch[173] trining batch:250/391 {'loss': 0.00022980169160291553}
+>>>Epoch[173] trining batch:300/391 {'loss': 0.0006666014669463038}
+>>>Epoch[173] trining batch:350/391 {'loss': 0.0002295881713507697}
+Epoch[173/199] ETA:18.82min(0.72min/epoch) {'training_acc': 0.9999600648880005, 'epoch': None, 'step': None}
+>>>Epoch[174] trining batch:0/391 {'loss': 0.0006241938099265099}
+>>>Epoch[174] trining batch:50/391 {'loss': 0.00012789671018254012}
+>>>Epoch[174] trining batch:100/391 {'loss': 0.00013421423500403762}
+>>>Epoch[174] trining batch:150/391 {'loss': 0.000296769110718742}
+>>>Epoch[174] trining batch:200/391 {'loss': 0.00025357361300848424}
+>>>Epoch[174] trining batch:250/391 {'loss': 0.0001536806666990742}
+>>>Epoch[174] trining batch:300/391 {'loss': 0.00017802882939577103}
+>>>Epoch[174] trining batch:350/391 {'loss': 0.00015147512021940202}
+Epoch[174/199] ETA:18.15min(0.73min/epoch) {'training_acc': 0.9998599886894226, 'epoch': None, 'step': None}
+>>>Epoch[175] trining batch:0/391 {'loss': 0.0004106455307919532}
+>>>Epoch[175] trining batch:50/391 {'loss': 0.0001922068913700059}
+>>>Epoch[175] trining batch:100/391 {'loss': 0.00039415256469510496}
+>>>Epoch[175] trining batch:150/391 {'loss': 0.0009989712852984667}
+>>>Epoch[175] trining batch:200/391 {'loss': 0.00031924888025969267}
+>>>Epoch[175] trining batch:250/391 {'loss': 0.0004824980569537729}
+>>>Epoch[175] trining batch:300/391 {'loss': 0.0012467066990211606}
+>>>Epoch[175] trining batch:350/391 {'loss': 0.00047315662959590554}
+Epoch[175/199] ETA:17.43min(0.73min/epoch) {'training_acc': 0.9999200105667114, 'epoch': None, 'step': None}
+>>>Epoch[176] trining batch:0/391 {'loss': 0.0002229881938546896}
+>>>Epoch[176] trining batch:50/391 {'loss': 0.00013600308739114553}
+>>>Epoch[176] trining batch:100/391 {'loss': 0.0008117624674923718}
+>>>Epoch[176] trining batch:150/391 {'loss': 0.00026479430380277336}
+>>>Epoch[176] trining batch:200/391 {'loss': 0.00012705050176009536}
+>>>Epoch[176] trining batch:250/391 {'loss': 0.00017642133752815425}
+>>>Epoch[176] trining batch:300/391 {'loss': 0.0008089393959380686}
+>>>Epoch[176] trining batch:350/391 {'loss': 7.882119825808331e-05}
+Epoch[176/199] ETA:16.74min(0.73min/epoch) {'training_acc': 0.9998800158500671, 'epoch': None, 'step': None}
+>>>Epoch[177] trining batch:0/391 {'loss': 0.00042316477629356086}
+>>>Epoch[177] trining batch:50/391 {'loss': 0.005826997570693493}
+>>>Epoch[177] trining batch:100/391 {'loss': 0.000795335799921304}
+>>>Epoch[177] trining batch:150/391 {'loss': 0.00022645783610641956}
+>>>Epoch[177] trining batch:200/391 {'loss': 0.0003336631634738296}
+>>>Epoch[177] trining batch:250/391 {'loss': 0.000549306976608932}
+>>>Epoch[177] trining batch:300/391 {'loss': 0.00024198948813136667}
+>>>Epoch[177] trining batch:350/391 {'loss': 0.0007327353814616799}
+Epoch[177/199] ETA:15.86min(0.72min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[178] trining batch:0/391 {'loss': 0.000433752138633281}
+>>>Epoch[178] trining batch:50/391 {'loss': 0.00015316427743528038}
+>>>Epoch[178] trining batch:100/391 {'loss': 0.00032219543936662376}
+>>>Epoch[178] trining batch:150/391 {'loss': 0.0005787091213278472}
+>>>Epoch[178] trining batch:200/391 {'loss': 0.0006341999396681786}
+>>>Epoch[178] trining batch:250/391 {'loss': 0.0004780066083185375}
+>>>Epoch[178] trining batch:300/391 {'loss': 0.00026443335809744895}
+>>>Epoch[178] trining batch:350/391 {'loss': 0.0003462066815700382}
+Epoch[178/199] ETA:15.21min(0.72min/epoch) {'training_acc': 0.9998599886894226, 'epoch': None, 'step': None}
+>>>Epoch[179] trining batch:0/391 {'loss': 0.00040839100256562233}
+>>>Epoch[179] trining batch:50/391 {'loss': 0.0003477908903732896}
+>>>Epoch[179] trining batch:100/391 {'loss': 0.00031015308923088014}
+>>>Epoch[179] trining batch:150/391 {'loss': 0.000307276175590232}
+>>>Epoch[179] trining batch:200/391 {'loss': 0.00015136745059862733}
+>>>Epoch[179] trining batch:250/391 {'loss': 0.00015088434156496078}
+>>>Epoch[179] trining batch:300/391 {'loss': 0.0003632861189544201}
+>>>Epoch[179] trining batch:350/391 {'loss': 0.011953404173254967}
+Epoch[179/199] ETA:14.52min(0.73min/epoch) {'training_acc': 0.9999200105667114, 'epoch': None, 'step': None}
+>>>Epoch[180] trining batch:0/391 {'loss': 0.0007917371112853289}
+>>>Epoch[180] trining batch:50/391 {'loss': 0.0001600375835550949}
+>>>Epoch[180] trining batch:100/391 {'loss': 0.002001854358240962}
+>>>Epoch[180] trining batch:150/391 {'loss': 0.00024052969820331782}
+>>>Epoch[180] trining batch:200/391 {'loss': 0.0019227139418944716}
+>>>Epoch[180] trining batch:250/391 {'loss': 0.000130351516418159}
+>>>Epoch[180] trining batch:300/391 {'loss': 0.004827662371098995}
+>>>Epoch[180] trining batch:350/391 {'loss': 0.00042560952715575695}
+Epoch[180/199] ETA:13.80min(0.73min/epoch) {'training_acc': 0.9999200105667114, 'epoch': None, 'step': None}
+>>>Epoch[181] trining batch:0/391 {'loss': 0.00035729838418774307}
+>>>Epoch[181] trining batch:50/391 {'loss': 0.0002673136768862605}
+>>>Epoch[181] trining batch:100/391 {'loss': 0.00021147036750335246}
+>>>Epoch[181] trining batch:150/391 {'loss': 0.00032782458583824337}
+>>>Epoch[181] trining batch:200/391 {'loss': 0.00028545036911964417}
+>>>Epoch[181] trining batch:250/391 {'loss': 0.0011074623325839639}
+>>>Epoch[181] trining batch:300/391 {'loss': 0.0003374973020981997}
+>>>Epoch[181] trining batch:350/391 {'loss': 0.00036619853926822543}
+Epoch[181/199] ETA:13.17min(0.73min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[182] trining batch:0/391 {'loss': 0.0016252296045422554}
+>>>Epoch[182] trining batch:50/391 {'loss': 0.0002586733899079263}
+>>>Epoch[182] trining batch:100/391 {'loss': 0.00041081063682213426}
+>>>Epoch[182] trining batch:150/391 {'loss': 0.0007165991701185703}
+>>>Epoch[182] trining batch:200/391 {'loss': 0.0029939354863017797}
+>>>Epoch[182] trining batch:250/391 {'loss': 0.0003118642489425838}
+>>>Epoch[182] trining batch:300/391 {'loss': 0.00043984330841340125}
+>>>Epoch[182] trining batch:350/391 {'loss': 0.020471444353461266}
+Epoch[182/199] ETA:12.28min(0.72min/epoch) {'training_acc': 0.9998599886894226, 'epoch': None, 'step': None}
+>>>Epoch[183] trining batch:0/391 {'loss': 0.0007893068832345307}
+>>>Epoch[183] trining batch:50/391 {'loss': 0.0005195246776565909}
+>>>Epoch[183] trining batch:100/391 {'loss': 0.00022363792231772095}
+>>>Epoch[183] trining batch:150/391 {'loss': 0.0007898503099568188}
+>>>Epoch[183] trining batch:200/391 {'loss': 0.0005715256556868553}
+>>>Epoch[183] trining batch:250/391 {'loss': 0.00034600167418830097}
+>>>Epoch[183] trining batch:300/391 {'loss': 0.00031468053930439055}
+>>>Epoch[183] trining batch:350/391 {'loss': 0.00019617125508375466}
+Epoch[183/199] ETA:11.72min(0.73min/epoch) {'training_acc': 0.9999399781227112, 'epoch': None, 'step': None}
+>>>Epoch[184] trining batch:0/391 {'loss': 0.0005046702572144568}
+>>>Epoch[184] trining batch:50/391 {'loss': 0.00030328831053338945}
+>>>Epoch[184] trining batch:100/391 {'loss': 0.000525033799931407}
+>>>Epoch[184] trining batch:150/391 {'loss': 0.00012966335634700954}
+>>>Epoch[184] trining batch:200/391 {'loss': 0.00042675540316849947}
+>>>Epoch[184] trining batch:250/391 {'loss': 0.00022392590472009033}
+>>>Epoch[184] trining batch:300/391 {'loss': 0.001137507613748312}
+>>>Epoch[184] trining batch:350/391 {'loss': 0.0003534371790010482}
+Epoch[184/199] ETA:10.81min(0.72min/epoch) {'training_acc': 0.9998800158500671, 'epoch': None, 'step': None}
+>>>Epoch[185] trining batch:0/391 {'loss': 0.0009951929096132517}
+>>>Epoch[185] trining batch:50/391 {'loss': 0.00086086435476318}
+>>>Epoch[185] trining batch:100/391 {'loss': 0.00033781773527152836}
+>>>Epoch[185] trining batch:150/391 {'loss': 0.000463300384581089}
+>>>Epoch[185] trining batch:200/391 {'loss': 0.0007604137645103037}
+>>>Epoch[185] trining batch:250/391 {'loss': 0.0004299522843211889}
+>>>Epoch[185] trining batch:300/391 {'loss': 0.0006989744142629206}
+>>>Epoch[185] trining batch:350/391 {'loss': 0.0008641633903607726}
+Epoch[185/199] ETA:10.13min(0.72min/epoch) {'training_acc': 0.9999799728393555, 'epoch': None, 'step': None}
+>>>Epoch[186] trining batch:0/391 {'loss': 0.0005380755756050348}
+>>>Epoch[186] trining batch:50/391 {'loss': 0.00048385525587946177}
+>>>Epoch[186] trining batch:100/391 {'loss': 0.00017152987129520625}
+>>>Epoch[186] trining batch:150/391 {'loss': 0.0002219606249127537}
+>>>Epoch[186] trining batch:200/391 {'loss': 0.0005330819403752685}
+>>>Epoch[186] trining batch:250/391 {'loss': 0.0002419955562800169}
+>>>Epoch[186] trining batch:300/391 {'loss': 0.00042518164264038205}
+>>>Epoch[186] trining batch:350/391 {'loss': 0.0001778530131559819}
+Epoch[186/199] ETA:9.45min(0.73min/epoch) {'training_acc': 0.9999200105667114, 'epoch': None, 'step': None}
+>>>Epoch[187] trining batch:0/391 {'loss': 0.003439408726990223}
+>>>Epoch[187] trining batch:50/391 {'loss': 0.00042250024853274226}
+>>>Epoch[187] trining batch:100/391 {'loss': 0.0010476791067048907}
+>>>Epoch[187] trining batch:150/391 {'loss': 0.00022093349252827466}
+>>>Epoch[187] trining batch:200/391 {'loss': 0.0008323669317178428}
+>>>Epoch[187] trining batch:250/391 {'loss': 0.00043316761730238795}
+>>>Epoch[187] trining batch:300/391 {'loss': 0.00044191061169840395}
+>>>Epoch[187] trining batch:350/391 {'loss': 0.00024543210747651756}
+Epoch[187/199] ETA:8.73min(0.73min/epoch) {'training_acc': 0.999940037727356, 'epoch': None, 'step': None}
+>>>Epoch[188] trining batch:0/391 {'loss': 0.0015954801347106695}
+>>>Epoch[188] trining batch:50/391 {'loss': 0.0003902602184098214}
+>>>Epoch[188] trining batch:100/391 {'loss': 0.000352295464836061}
+>>>Epoch[188] trining batch:150/391 {'loss': 0.0006746131693944335}
+>>>Epoch[188] trining batch:200/391 {'loss': 0.00030071393121033907}
+>>>Epoch[188] trining batch:250/391 {'loss': 0.0018105130875483155}
+>>>Epoch[188] trining batch:300/391 {'loss': 0.00035213257069699466}
+>>>Epoch[188] trining batch:350/391 {'loss': 0.00036511686630547047}
+Epoch[188/199] ETA:7.91min(0.72min/epoch) {'training_acc': 0.9999800324440002, 'epoch': None, 'step': None}
+>>>Epoch[189] trining batch:0/391 {'loss': 0.0001308069913648069}
+>>>Epoch[189] trining batch:50/391 {'loss': 0.0001828177773859352}
+>>>Epoch[189] trining batch:100/391 {'loss': 0.00020042565301992}
+>>>Epoch[189] trining batch:150/391 {'loss': 0.000770356273278594}
+>>>Epoch[189] trining batch:200/391 {'loss': 0.0003390248748473823}
+>>>Epoch[189] trining batch:250/391 {'loss': 0.00026086880825459957}
+>>>Epoch[189] trining batch:300/391 {'loss': 0.000643136736471206}
+>>>Epoch[189] trining batch:350/391 {'loss': 0.00040501667535863817}
+Epoch[189/199] ETA:7.30min(0.73min/epoch) {'training_acc': 0.9999000430107117, 'epoch': None, 'step': None}
+>>>Epoch[190] trining batch:0/391 {'loss': 0.00011648294457700104}
+>>>Epoch[190] trining batch:50/391 {'loss': 0.0012890862999483943}
+>>>Epoch[190] trining batch:100/391 {'loss': 0.008914487436413765}
+>>>Epoch[190] trining batch:150/391 {'loss': 0.0017350263660773635}
+>>>Epoch[190] trining batch:200/391 {'loss': 0.00011888954031746835}
+>>>Epoch[190] trining batch:250/391 {'loss': 0.00038454923196695745}
+>>>Epoch[190] trining batch:300/391 {'loss': 0.00044003044604323804}
+>>>Epoch[190] trining batch:350/391 {'loss': 0.00024315330665558577}
+Epoch[190/199] ETA:6.54min(0.73min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[191] trining batch:0/391 {'loss': 0.0012438117992132902}
+>>>Epoch[191] trining batch:50/391 {'loss': 0.0002112544170813635}
+>>>Epoch[191] trining batch:100/391 {'loss': 0.00037001381861045957}
+>>>Epoch[191] trining batch:150/391 {'loss': 0.0019653630442917347}
+>>>Epoch[191] trining batch:200/391 {'loss': 0.0001554451882839203}
+>>>Epoch[191] trining batch:250/391 {'loss': 0.004097340162843466}
+>>>Epoch[191] trining batch:300/391 {'loss': 0.00017075265350285918}
+>>>Epoch[191] trining batch:350/391 {'loss': 0.0002779345086310059}
+Epoch[191/199] ETA:5.77min(0.72min/epoch) {'training_acc': 0.999940037727356, 'epoch': None, 'step': None}
+>>>Epoch[192] trining batch:0/391 {'loss': 0.0007322519668377936}
+>>>Epoch[192] trining batch:50/391 {'loss': 0.0007029007538221776}
+>>>Epoch[192] trining batch:100/391 {'loss': 0.0005084762233309448}
+>>>Epoch[192] trining batch:150/391 {'loss': 0.0002951101050712168}
+>>>Epoch[192] trining batch:200/391 {'loss': 0.0005750692798756063}
+>>>Epoch[192] trining batch:250/391 {'loss': 0.0002951766364276409}
+>>>Epoch[192] trining batch:300/391 {'loss': 0.000349388865288347}
+>>>Epoch[192] trining batch:350/391 {'loss': 0.0002822002279572189}
+Epoch[192/199] ETA:5.09min(0.73min/epoch) {'training_acc': 0.999940037727356, 'epoch': None, 'step': None}
+>>>Epoch[193] trining batch:0/391 {'loss': 0.0019493720028549433}
+>>>Epoch[193] trining batch:50/391 {'loss': 0.0003815219388343394}
+>>>Epoch[193] trining batch:100/391 {'loss': 0.00017136451788246632}
+>>>Epoch[193] trining batch:150/391 {'loss': 0.00028410335653461516}
+>>>Epoch[193] trining batch:200/391 {'loss': 0.0002001636748900637}
+>>>Epoch[193] trining batch:250/391 {'loss': 0.00019351750961504877}
+>>>Epoch[193] trining batch:300/391 {'loss': 0.00024008372565731406}
+>>>Epoch[193] trining batch:350/391 {'loss': 0.0004114278999622911}
+Epoch[193/199] ETA:4.36min(0.73min/epoch) {'training_acc': 0.9999200105667114, 'epoch': None, 'step': None}
+>>>Epoch[194] trining batch:0/391 {'loss': 0.0010207761079072952}
+>>>Epoch[194] trining batch:50/391 {'loss': 0.0010711615905165672}
+>>>Epoch[194] trining batch:100/391 {'loss': 0.00033520799479447305}
+>>>Epoch[194] trining batch:150/391 {'loss': 0.00032089746673591435}
+>>>Epoch[194] trining batch:200/391 {'loss': 0.00014232144167181104}
+>>>Epoch[194] trining batch:250/391 {'loss': 0.0002689444809220731}
+>>>Epoch[194] trining batch:300/391 {'loss': 0.00010750892397481948}
+>>>Epoch[194] trining batch:350/391 {'loss': 0.0008175641414709389}
+Epoch[194/199] ETA:3.63min(0.73min/epoch) {'training_acc': 0.9999599456787109, 'epoch': None, 'step': None}
+>>>Epoch[195] trining batch:0/391 {'loss': 0.00013389020750764757}
+>>>Epoch[195] trining batch:50/391 {'loss': 0.0005857922369614244}
+>>>Epoch[195] trining batch:100/391 {'loss': 0.0011856869095936418}
+>>>Epoch[195] trining batch:150/391 {'loss': 0.0002610180526971817}
+>>>Epoch[195] trining batch:200/391 {'loss': 0.0002599895524326712}
+>>>Epoch[195] trining batch:250/391 {'loss': 0.00022919601178728044}
+>>>Epoch[195] trining batch:300/391 {'loss': 0.00031150144059211016}
+>>>Epoch[195] trining batch:350/391 {'loss': 0.00021534686675295234}
+Epoch[195/199] ETA:2.90min(0.73min/epoch) {'training_acc': 0.9999200105667114, 'epoch': None, 'step': None}
+>>>Epoch[196] trining batch:0/391 {'loss': 0.00012164292274974287}
+>>>Epoch[196] trining batch:50/391 {'loss': 0.0003076251014135778}
+>>>Epoch[196] trining batch:100/391 {'loss': 0.00024476335966028273}
+>>>Epoch[196] trining batch:150/391 {'loss': 0.00013882234634365886}
+>>>Epoch[196] trining batch:200/391 {'loss': 0.0005509113543666899}
+>>>Epoch[196] trining batch:250/391 {'loss': 0.00092973408754915}
+>>>Epoch[196] trining batch:300/391 {'loss': 0.0006464069010689855}
+>>>Epoch[196] trining batch:350/391 {'loss': 0.00023070194583851844}
+Epoch[196/199] ETA:2.16min(0.72min/epoch) {'training_acc': 0.9999600052833557, 'epoch': None, 'step': None}
+>>>Epoch[197] trining batch:0/391 {'loss': 0.0003520580939948559}
+>>>Epoch[197] trining batch:50/391 {'loss': 0.0003889495856128633}
+>>>Epoch[197] trining batch:100/391 {'loss': 0.0006120538455434144}
+>>>Epoch[197] trining batch:150/391 {'loss': 0.0003002537414431572}
+>>>Epoch[197] trining batch:200/391 {'loss': 0.00017257498984690756}
+>>>Epoch[197] trining batch:250/391 {'loss': 0.00019662725389935076}
+>>>Epoch[197] trining batch:300/391 {'loss': 0.00345732644200325}
+>>>Epoch[197] trining batch:350/391 {'loss': 0.00012063544272677973}
+Epoch[197/199] ETA:1.45min(0.73min/epoch) {'training_acc': 0.999940037727356, 'epoch': None, 'step': None}
+>>>Epoch[198] trining batch:0/391 {'loss': 0.00017203393508680165}
+>>>Epoch[198] trining batch:50/391 {'loss': 0.0011147839250043035}
+>>>Epoch[198] trining batch:100/391 {'loss': 0.00041935360059142113}
+>>>Epoch[198] trining batch:150/391 {'loss': 0.00017930593458004296}
+>>>Epoch[198] trining batch:200/391 {'loss': 0.0006311839679256082}
+>>>Epoch[198] trining batch:250/391 {'loss': 0.0006260413210839033}
+>>>Epoch[198] trining batch:300/391 {'loss': 0.002011337550356984}
+>>>Epoch[198] trining batch:350/391 {'loss': 0.0002727317623794079}
+Epoch[198/199] ETA:0.71min(0.71min/epoch) {'training_acc': 0.9998999834060669, 'epoch': None, 'step': None}
+>>>Epoch[199] trining batch:0/391 {'loss': 0.0015284555265679955}
+>>>Epoch[199] trining batch:50/391 {'loss': 0.00019297502876725048}
+>>>Epoch[199] trining batch:100/391 {'loss': 0.0004282024165149778}
+>>>Epoch[199] trining batch:150/391 {'loss': 0.00033514079404994845}
+>>>Epoch[199] trining batch:200/391 {'loss': 0.0005477085360325873}
+>>>Epoch[199] trining batch:250/391 {'loss': 0.00027053733356297016}
+>>>Epoch[199] trining batch:300/391 {'loss': 0.00013352859241422266}
+>>>Epoch[199] trining batch:350/391 {'loss': 0.00024511429364793}
+Epoch[199/199] ETA:0.00min(0.66min/epoch) {'training_acc': 0.9998599886894226, 'epoch': None, 'step': None}
+Traning completed. Time consumption:143.64min
